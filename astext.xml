@@ -21,402 +21,10 @@
 	<display-name lang="en">AS809</display-name>
     <url>http://www.astro.com.my</url>
 </channel>
-<programme start="20230831000000 +0800" stop="20230831003000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP10 人と怪獣, Hito to Kaijū)</title>
-    <desc lang="en">The mysterious monster Neomegas appears suddenly in town, defeats several other monsters, and leaves. Vice-Captain Kaizaki tries to find out what's really going out, when she remembers the words of her mentor. The terrifying true meaning behind those words reveals itself before Kanata, the GUTS-Select team, and Ultraman Decker!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831003000 +0800" stop="20230831010000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP25. Warriors Shining Beyond, 遥かに輝く戦士たち, Haruka ni Kagayaku Senshi-tachi)</title>
-    <desc lang="en">In the face of a brutal assault by the formidable Destrudos, Haruki and Ultraman Z are gravely injured. Meanwhile, STORAGE attempts a desperate, all-out attack in order to rescue Yoko, who has fallen into the enemy’s clutches!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831010000 +0800" stop="20230831013000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP01. Chant My Name! ご唱和ください、我の名を!, Goshōwa Kudasai, Ware no Na wo!)</title>
-    <desc lang="en">Haruki Natsukawa is a pilot for Global Allied Forces Japan’s robot unit, STORAGE. As he fights day and night to keep the peace on Earth, a new Ultra Hero alights before him! That hero’s name is Ultraman Z. He’s a hot-blooded hero who introduces himself as the disciple of Ultraman Zero. In the face of the Ferocious Space Shark Genegarg’s onslaught, the two imperiled heroes become one, and the story of Ultraman Z begins!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831013000 +0800" stop="20230831020000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP02. A Warrior's Principle 戦士の心得, Senshi no Kokoroe)</title>
-    <desc lang="en">The Invisible Monster Neronga appears to consume electricity while appearing and disappearing at the same time. STORAGE were sent to deal with the monster. Haruki struggles with Neronga, which absorbs the electric power of Sevenger. STORAGE devises a new strategy to defeat Neronga. Will Haruki and Z be able to capture Neronga?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831020000 +0800" stop="20230831023000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP03. Live Coverage! The Monster Transport Operation 生中継!怪獣輸送大作戦, Nama Chūkei! Kaijū Yusō Dai Sakusen)</title>
-    <desc lang="en">STORAGE was ordered to transport the ancient monster, Gomora to an uninhabited island after a construction company discover it in a mountain. Haruki heads out in Sevenger, but Gomora suddenly awakens! Haruki has no choice but to stop its rampage!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831023000 +0800" stop="20230831030000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP04. Robot-2 Activation Plan 生二号ロボ起動計画, Nigō Robo Kidō Keikaku)</title>
-    <desc lang="en">Anti-monster robot force STORAGE's new asset, Special Craft No. 2, Windom, is finally complete. However, a problem with its energy charge prevents it from being launched. Meanwhile, the Subterranean Monster Telesdon rampages on the surface! Even worse, Telesdon is given a boost by a mysterious power! Can STORAGE and Ultraman Z overcome this challenge?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831030000 +0800" stop="20230831033000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP05. First Juggling, ファースト・ジャグリング, Fāsuto Jaguringu)</title>
-    <desc lang="en">A mysterious stone tool is found in Alaska. The Freezing Monster, Peguila appeared at a lab where this tool was under research. Yoko attempted to dispatch with Windom, but the mecha was frozen solid! Will this new tool help Ultraman Z and STORAGE in this battle?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831033000 +0800" stop="20230831040000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP01)</title>
-    <desc lang="en">Ultraman Zero VS Darklops Zero - Part 1: Multidimensional Threat! (ウルトラマンゼロVSダークロプスゼロ パート①「多次元の脅威！」, Urutoraman Zero VS Dākuropusu Zero Pāto Wan - Tajigen no Kyōi!)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831040000 +0800" stop="20230831043000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP02)</title>
-    <desc lang="en">Ultraman Zero VS Darklops Zero - Part 2: Magic Bullet of Darkness (ウルトラマンゼロVSダークロプスゼロ パート②「暗黒の魔弾」, Urutoraman Zero VS Dākuropusu Zero Pāto Tsu - Ankoku no Madan)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831043000 +0800" stop="20230831050000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP03)</title>
-    <desc lang="en">Ultraman Zero VS Darklops Zero - Part 3: Big Bang of Flame (ウルトラマンゼロVSダークロプス ゼロ パート ③ 「炎のビッグバン!」, Urutoraman Zero VS Dākuropusu Zero Pāto Tsuri - Honō no Bigguban!)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831050000 +0800" stop="20230831053000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP04)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Bonds (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 絆の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Kizuna no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831053000 +0800" stop="20230831060000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP05)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Flame (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 炎の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Honō no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831060000 +0800" stop="20230831063000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP05. First Juggling, ファースト・ジャグリング, Fāsuto Jaguringu)</title>
-    <desc lang="en">A mysterious stone tool is found in Alaska. The Freezing Monster, Peguila appeared at a lab where this tool was under research. Yoko attempted to dispatch with Windom, but the mecha was frozen solid! Will this new tool help Ultraman Z and STORAGE in this battle?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831063000 +0800" stop="20230831070000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP06. The Man Returns! 帰ってきた男!, Kaettekita Otoko!)</title>
-    <desc lang="en">A certain man has returned to Earth. His name is Riku Asakura, and 's the young man who transforms into Ultraman Geed. However, 's not the only one who has come to Earth. The Last Judgmenter Gillvalis, who once tormented Geed, has returned to Earth once again! don't look away as our two brave heroes face down an unprecedented crisis!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831070000 +0800" stop="20230831073000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP07. His majesty's Medal 陛下のメダル, Heika no Medaru)</title>
-    <desc lang="en">Riku Asakura was kidnapped by someone! Riku's hidden power is being used to create something evil...! And the enemy's powerful Belial Fusion Monster appears! As peril befalls out heroes, Ultraman Z's master, Ultraman Zero appears! Shatter the enemy's evil ambitions, Z, Geed, and Zero!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831073000 +0800" stop="20230831080000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP08. The Mystic Power 神秘の力, Shinpi no Chikara)</title>
-    <desc lang="en">One day mysterious beautiful sisters arrived from the far corners of the universe! The mysterious monster cells in their possession have created a Combined Monster known as Tri-King! Furthermore, Kaburagi strengthens this formation further by causing it to evolve into a Super Combined Monster known as Five King! There is no choice but to make use of a new kind of power in order to face this indomitable threat! That's right, harnessing the powers of a mysterious transforming light!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831080000 +0800" stop="20230831083000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP09. The Unidentified Object Convoy Order 未確認物質護送指令, Mi Kakunin Busshitsu Gosō Shirei)</title>
-    <desc lang="en">STORAGE members are assigned to escort Ultra Medals to a research institute under the GAF's orders. But aliens are also aiming for the Ultra Medals, which are said to be the treasure of the universe! How can STORAGE deal the enemy space robot King Joe and how will Ultraman Z face it?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831083000 +0800" stop="20230831090000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP10. Here Comes the Space Pirate! 宇宙海賊登場, Uchū Kaizoku Tōjō)</title>
-    <desc lang="en">The space pirate, Alien Barossa sneaks into STORAGE to retrieve King Joe! This space pirate is known for using various robbed tools and weapons from space and is a powerful enemy! In addition, King Joe is about to move again! Can Haruki stop this pirate?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831090000 +0800" stop="20230831093000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP04)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Bonds (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 絆の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Kizuna no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831093000 +0800" stop="20230831100000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP05)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Flame (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 炎の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Honō no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831100000 +0800" stop="20230831103000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP06)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Mirrors (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 鏡の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Kagami no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831103000 +0800" stop="20230831110000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP07)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Steel (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 鋼の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Hagane no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831110000 +0800" stop="20230831113000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP08)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Light (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 光の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Hikari no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831113000 +0800" stop="20230831120000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP09)</title>
-    <desc lang="en">Ultraman Saga - Chapter 1: Silent Earth (ウルトラマンサーガ 「第1章 沈黙の地球」, Urutoraman Sāga - Dai Ichi Shō: Chinmoku no Chikyū)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831120000 +0800" stop="20230831131000 +0800" channel="AS400">
-    <title lang="en">Ultraman Taiga The Movie (New Generation Climax)</title>
-    <desc lang="en">Hiroyuki Kudo, working at the private security organization EGIS, has the power to transform into three Ultra Heroes: Taiga, Titas, and Fuma. Battling and defeating many enemies together, the bond between Hiroyuki and Taiga has deepened. However, someone has been targeting Hiroyuki. Noticing this, the New Generation Heroes come together to save him. Hikaru, Sho, Daichi, Gai, Riku, Katsumi, Isami, and even Taiga’s father Ultraman Taro have all come down to Earth. However, Ultraman Taro violently attacks his son Taiga. What happened to Taro? Will Taiga be able to fight against his father!? The New Generation Heroes now stand together to confront a bigger, darker power!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://news.ultramanconnection.com/wp-content/uploads/2022/10/62d70fd3cc456dc40514dcec_ULTRAMAN-TAIGA-NEXT-FEATURE-FILM-TO-HIT-THEATERS-IN-JAPAN.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831131000 +0800" stop="20230831134000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP10 人と怪獣, Hito to Kaijū)</title>
-    <desc lang="en">The mysterious monster Neomegas appears suddenly in town, defeats several other monsters, and leaves. Vice-Captain Kaizaki tries to find out what's really going out, when she remembers the words of her mentor. The terrifying true meaning behind those words reveals itself before Kanata, the GUTS-Select team, and Ultraman Decker!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831134000 +0800" stop="20230831141000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP11 機神出撃, Kishin Shutsugeki)</title>
-    <desc lang="en">Finally! Finally!! GUTS-Select are given with new equipment in the form of a robot! It's name is the "Terraphaser"!! Everyone is excited to meet the robot they'd been waiting for, but for some reason monsters appear every time they try to test a boot-up sequence!! As Ultraman Decker holds off the monsters, can the team safely start-up the Terraphaser?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831141000 +0800" stop="20230831144000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP12 ネオメガスの逆襲, Neomegasu no Gyakushū)</title>
-    <desc lang="en">Sphere-Neomegas is born from the remaining Neomegas cells. Ultraman Decker and GUTS-Select are forced to fight against its overwhelming power. Kanata and his team are devastated by their inability to accomplish anything, but they encourage each other and begin a counterattack operation, mobilizing all their strength with Terraphaser at the center!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831144000 +0800" stop="20230831151000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP13 ジャンブル・ロック, Jumble Rock)</title>
-    <desc lang="en">The Nursedessei's systems suddenly go down. A power-outage?! Who appears in this emergency but Marluru of the previous GUTS-Select team! Kanata and the crew are grateful for their seniors' timely appearance, but Marluru's sharp tongue leads to heated outbursts! Will Kanata and crew figure out how to work with Marluru and safely restore power to the Nursedessei?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831151000 +0800" stop="20230831154000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP05. First Juggling, ファースト・ジャグリング, Fāsuto Jaguringu)</title>
-    <desc lang="en">A mysterious stone tool is found in Alaska. The Freezing Monster, Peguila appeared at a lab where this tool was under research. Yoko attempted to dispatch with Windom, but the mecha was frozen solid! Will this new tool help Ultraman Z and STORAGE in this battle?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831154000 +0800" stop="20230831161000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP06. The Man Returns! 帰ってきた男!, Kaettekita Otoko!)</title>
-    <desc lang="en">A certain man has returned to Earth. His name is Riku Asakura, and 's the young man who transforms into Ultraman Geed. However, 's not the only one who has come to Earth. The Last Judgmenter Gillvalis, who once tormented Geed, has returned to Earth once again! don't look away as our two brave heroes face down an unprecedented crisis!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831161000 +0800" stop="20230831164000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP07. His majesty's Medal 陛下のメダル, Heika no Medaru)</title>
-    <desc lang="en">Riku Asakura was kidnapped by someone! Riku's hidden power is being used to create something evil...! And the enemy's powerful Belial Fusion Monster appears! As peril befalls out heroes, Ultraman Z's master, Ultraman Zero appears! Shatter the enemy's evil ambitions, Z, Geed, and Zero!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831164000 +0800" stop="20230831171000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP08. The Mystic Power 神秘の力, Shinpi no Chikara)</title>
-    <desc lang="en">One day mysterious beautiful sisters arrived from the far corners of the universe! The mysterious monster cells in their possession have created a Combined Monster known as Tri-King! Furthermore, Kaburagi strengthens this formation further by causing it to evolve into a Super Combined Monster known as Five King! There is no choice but to make use of a new kind of power in order to face this indomitable threat! That's right, harnessing the powers of a mysterious transforming light!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831171000 +0800" stop="20230831174000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP09. The Unidentified Object Convoy Order 未確認物質護送指令, Mi Kakunin Busshitsu Gosō Shirei)</title>
-    <desc lang="en">STORAGE members are assigned to escort Ultra Medals to a research institute under the GAF's orders. But aliens are also aiming for the Ultra Medals, which are said to be the treasure of the universe! How can STORAGE deal the enemy space robot King Joe and how will Ultraman Z face it?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831174000 +0800" stop="20230831181000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP10. Here Comes the Space Pirate! 宇宙海賊登場, Uchū Kaizoku Tōjō)</title>
-    <desc lang="en">The space pirate, Alien Barossa sneaks into STORAGE to retrieve King Joe! This space pirate is known for using various robbed tools and weapons from space and is a powerful enemy! In addition, King Joe is about to move again! Can Haruki stop this pirate?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831181000 +0800" stop="20230831184000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP05)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Flame (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 炎の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Honō no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831184000 +0800" stop="20230831191000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP06)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Mirrors (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 鏡の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Kagami no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831191000 +0800" stop="20230831194000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP07)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Steel (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 鋼の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Hagane no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831194000 +0800" stop="20230831201000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP08)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Light (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 光の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Hikari no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831201000 +0800" stop="20230831204000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP09)</title>
-    <desc lang="en">Ultraman Saga - Chapter 1: Silent Earth (ウルトラマンサーガ 「第1章 沈黙の地球」, Urutoraman Sāga - Dai Ichi Shō: Chinmoku no Chikyū)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831204000 +0800" stop="20230831223000 +0800" channel="AS400">
-    <title lang="en">Ultra Galaxy Fight: The Absolute Conspiracy</title>
-    <desc lang="en">Together with Ultraman Max, Ultraman Ribut senses a strange presence on a certain planet... However, it's a trap set by an enemy seeking revenge.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/3/3b/UGFTACTitle.png/revision/latest?cb=20211213041138" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831223000 +0800" stop="20230831230000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP10 人と怪獣, Hito to Kaijū)</title>
-    <desc lang="en">The mysterious monster Neomegas appears suddenly in town, defeats several other monsters, and leaves. Vice-Captain Kaizaki tries to find out what's really going out, when she remembers the words of her mentor. The terrifying true meaning behind those words reveals itself before Kanata, the GUTS-Select team, and Ultraman Decker!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831230000 +0800" stop="20230831233000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP11 機神出撃, Kishin Shutsugeki)</title>
-    <desc lang="en">Finally! Finally!! GUTS-Select are given with new equipment in the form of a robot! It's name is the "Terraphaser"!! Everyone is excited to meet the robot they'd been waiting for, but for some reason monsters appear every time they try to test a boot-up sequence!! As Ultraman Decker holds off the monsters, can the team safely start-up the Terraphaser?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230831233000 +0800" stop="20230901000000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP12 ネオメガスの逆襲, Neomegasu no Gyakushū)</title>
-    <desc lang="en">Sphere-Neomegas is born from the remaining Neomegas cells. Ultraman Decker and GUTS-Select are forced to fight against its overwhelming power. Kanata and his team are devastated by their inability to accomplish anything, but they encourage each other and begin a counterattack operation, mobilizing all their strength with Terraphaser at the center!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
+<channel id="AS809">
+	<display-name lang="en">AS809</display-name>
+    <url>http://www.astro.com.my</url>
+</channel>
 <programme start="20230901000000 +0800" stop="20230901003000 +0800" channel="AS400">
     <title lang="en">Ultraman Decker (EP13 ジャンブル・ロック, Jumble Rock)</title>
     <desc lang="en">The Nursedessei's systems suddenly go down. A power-outage?! Who appears in this emergency but Marluru of the previous GUTS-Select team! Kanata and the crew are grateful for their seniors' timely appearance, but Marluru's sharp tongue leads to heated outbursts! Will Kanata and crew figure out how to work with Marluru and safely restore power to the Nursedessei?!</desc>
@@ -818,6 +426,429 @@
     <desc lang="en">"Humanity must not venture into space..." Kanata and the others struggle to take in those words, but just then the small monster Spinnie appears, and a TPU all-member operation begins to capture it. After all of their plans to capture it fail and Spinnie makes fun of him, Kanata vents by saying something horrible to Ryuumon...</desc>
     <category lang="en">Ultraman</category>
     <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902000000 +0800" stop="20230902003000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP20 Lord Ragon らごんさま, Ragon-sama)</title>
+    <desc lang="en">An incident of an attacking from an unidentified monster takes place in a modern city, built where it which was once an ocean, Wadatsumi City!! Kaizaki and Ichika are immediately sent to investigate. The pair find a suspicious old woman, a mysterious girl, a crowd wearing peculiar masks, and a strange green creature. Is this a place where myterious events gather?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902003000 +0800" stop="20230902010000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP10. Here Comes the Space Pirate! 宇宙海賊登場, Uchū Kaizoku Tōjō)</title>
+    <desc lang="en">The space pirate, Alien Barossa sneaks into STORAGE to retrieve King Joe! This space pirate is known for using various robbed tools and weapons from space and is a powerful enemy! In addition, King Joe is about to move again! Can Haruki stop this pirate?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902010000 +0800" stop="20230902013000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP11. What Must Be Defended, 守るべきもの, Mamorubeki mono)</title>
+    <desc lang="en">SSA-3 King Joe STORAGE Custom is finally complete! With weapons equipped to every inch of its body, this super robot wields tremendous power. Meanwhile, Red King appears before STORAGE. It seems, however, that this Red King has a secret...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902013000 +0800" stop="20230902020000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP12. The Cry of Life, 叫ぶ命, Sakebu Inochi)</title>
+    <desc lang="en">Ten years ago, a monster crashed to Earth and fell into a deep sleep. Now that monster, Grigio Raiden, has awakened! Z faces off against the monster, but something is wrong with Haruki... King Joe STORAGE Custom fights hard to follow the lackluster Z. How will this battle end?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902020000 +0800" stop="20230902023000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP13. I'll Feast on Medals!, メダルいただきます!, Medaru Itadakimasu!)</title>
+    <desc lang="en">With the sudden appearance of the Four-Dimensional Monster Bullton, the STORAGE base is thrown into chaos! Time and space become warped and twisted, transforming the STORAGE base into a dimensional prison. Meanwhile, Haruki is confronted with a mysterious phenomenon!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902023000 +0800" stop="20230902030000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP14. Four-Dimensional Capriccio, 四次元狂騒曲, Yojigen Kyōsō-kyoku)</title>
+    <desc lang="en">The space pirate, Alien Barossa sneaks into STORAGE to retrieve King Joe! This space pirate is known for using various robbed tools and weapons from space and is a powerful enemy! In addition, King Joe is about to move again! Can Haruki stop this pirate?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902030000 +0800" stop="20230902033000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP15. A Warrior's Duty, 戦士の使命, Senshi no Shimei)</title>
+    <desc lang="en">Emergency contact from Ultraman Geed! It seems that a distortion is created in the universe, and a void monster, Greeza, who returns everything to nothing, appears. We need new power to face this threat! Yes, the strongest figure of Ultraman Z is born here now!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902033000 +0800" stop="20230902040000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP11)</title>
+    <desc lang="en">Ultraman Saga - Chapter 3: The Cocoon of Fear (ウルトラマンサーガ 「第3章 恐怖の繭」, Urutoraman Sāga - Dai San Shō: Kyoufu no Mayu)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902040000 +0800" stop="20230902043000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP12)</title>
+    <desc lang="en">Ultraman Saga - Chapter 4: Revival of The Hero (ウルトラマンサーガ 「第4章 復活の英雄」, Urutoraman Sāga - Dai Yon Shō: Fukkatsu no Eiyū)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902043000 +0800" stop="20230902050000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP13)</title>
+    <desc lang="en">Ultraman Saga - Chapter 5: The Real Fight (ウルトラマンサーガ 「第5章 本当の戦い」, Urutoraman Sāga - Dai Go Shō: Hontō no Tatakai)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902050000 +0800" stop="20230902053000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP14)</title>
+    <desc lang="en">Ultraman Mebius Battle File (ウルトラマンメビウスバトルファイル, Urutoraman Mebiusu Batoru Fairu): The only episode to not be largely re-used from the two Ultraman Retsuden seasons, this episode showcases Ultraman Mebius Gaiden: Ghost Rebirth. In newly-recorded footage, Rei makes a brief appearance at the end.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902053000 +0800" stop="20230902060000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP15)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 1: The Rebellion of Belial (大怪獣バトル ウルトラ銀河伝説 「第１章　反逆のベリアル」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Ichi Shō: Hangyaku no Beriaru)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902060000 +0800" stop="20230902063000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP15. A Warrior's Duty, 戦士の使命, Senshi no Shimei)</title>
+    <desc lang="en">Emergency contact from Ultraman Geed! It seems that a distortion is created in the universe, and a void monster, Greeza, who returns everything to nothing, appears. We need new power to face this threat! Yes, the strongest figure of Ultraman Z is born here now!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902063000 +0800" stop="20230902070000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP16. The Lion's Cry 獅子の声, Shishi no Koe)</title>
+    <desc lang="en">The day has come for Horoboros, a monster that Yuka saw as a child, to awaken from its long slumber! The key to appeasing the raging Horoboros lies in a mysterious word recorded in an ancient document. Yuka sets out to decipher this writing, but Kaburagi's dark power is reaching out to Horoboros...!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902070000 +0800" stop="20230902073000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP17.Beliarok ベリアロク, Beriaroku)</title>
+    <desc lang="en">The Space Pirate, Alien Barossa, has returned! Alien Barossa is determined to steal Ultraman Z's new weapon. Beliarok. Our hero cannot allow Beliarok's hidden power to fall into the hands of an evil alien. With Juggler also in the mix. the battle for the mystic sword begins!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902073000 +0800" stop="20230902080000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP18. Rechallenge from the Year 2020 2020年の再挑戦, Nisen Nijū-nen no Sai Chōsen)</title>
+    <desc lang="en">While investigating the curious case of a vanishing monster. Haruki meets Kaori, a mysterious woman glaring at an old ferris wheel. Meanwhile, people are going missing from the town one after another...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902080000 +0800" stop="20230902083000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP19. The Last Hero 最後の勇者, Saigo no Yūsha)</title>
+    <desc lang="en">The sky has shattered like glass! From the alternate dimension on the other side, a terrible monster Baraba appeared! As Ultraman Z and the others struggle in the face of Baraba's persistent attacks, Ultraman Ace rushes to the scene for help!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902083000 +0800" stop="20230902090000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP20. To Care and What Lies Beyond 想い、その先に, Omoi, Sono Sakini)</title>
+    <desc lang="en">The Artificial Life Form M1, created by Chief Mechanic Kojiro Inaba’s daughter Ruri, has malfunctioned and become gigantic! M1 doesn’t have bad intentions, but like this, it can do some serious damage! STORAGE puts a major operation into motion in order to stop M1 before it reaches the metropolitan area. Will they be able to save M1?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902090000 +0800" stop="20230902093000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP14)</title>
+    <desc lang="en">Ultraman Mebius Battle File (ウルトラマンメビウスバトルファイル, Urutoraman Mebiusu Batoru Fairu): The only episode to not be largely re-used from the two Ultraman Retsuden seasons, this episode showcases Ultraman Mebius Gaiden: Ghost Rebirth. In newly-recorded footage, Rei makes a brief appearance at the end.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902093000 +0800" stop="20230902100000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP15)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 1: The Rebellion of Belial (大怪獣バトル ウルトラ銀河伝説 「第１章　反逆のベリアル」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Ichi Shō: Hangyaku no Beriaru)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902100000 +0800" stop="20230902103000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP16)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 2: Rei and Mebius (大怪獣バトル ウルトラ銀河伝説 「第２章　レイとメビウス」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Ni Shō: Rei to Mebiusu)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902103000 +0800" stop="20230902110000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP17)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 3: The Monster Graveyard Battle (大怪獣バトル ウルトラ銀河伝説 「第３章　怪獣墓場の決戦」, Daikaijū Batoru Urutora Ginga Densetsu - Dai San Shō: Kaijū Hagaba no Kessen)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902110000 +0800" stop="20230902113000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP18)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 4: Ultraman Zero Arrives (大怪獣バトル ウルトラ銀河伝説 「第４章　ウルトラマンゼロ参上」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Yon Shō: Urutoraman Zero Sanjō)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902113000 +0800" stop="20230902120000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP19)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Final Chapter: Restore the Light of the Galaxy (大怪獣バトル ウルトラ銀河伝説 「最終章　よみがえれ銀河の光」, Daikaijū Batoru Urutora Ginga Densetsu - Saishū Shō: Yomigaere Ginga no Hikari)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902120000 +0800" stop="20230902131000 +0800" channel="AS400">
+    <title lang="en">Ultraman Taiga The Movie (New Generation Climax)</title>
+    <desc lang="en">Hiroyuki Kudo, working at the private security organization EGIS, has the power to transform into three Ultra Heroes: Taiga, Titas, and Fuma. Battling and defeating many enemies together, the bond between Hiroyuki and Taiga has deepened. However, someone has been targeting Hiroyuki. Noticing this, the New Generation Heroes come together to save him. Hikaru, Sho, Daichi, Gai, Riku, Katsumi, Isami, and even Taiga’s father Ultraman Taro have all come down to Earth. However, Ultraman Taro violently attacks his son Taiga. What happened to Taro? Will Taiga be able to fight against his father!? The New Generation Heroes now stand together to confront a bigger, darker power!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://news.ultramanconnection.com/wp-content/uploads/2022/10/62d70fd3cc456dc40514dcec_ULTRAMAN-TAIGA-NEXT-FEATURE-FILM-TO-HIT-THEATERS-IN-JAPAN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902131000 +0800" stop="20230902150000 +0800" channel="AS400">
+    <title lang="en">Ultra Galaxy Fight: The Absolute Conspiracy</title>
+    <desc lang="en">Together with Ultraman Max, Ultraman Ribut senses a strange presence on a certain planet... However, it's a trap set by an enemy seeking revenge.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/3/3b/UGFTACTitle.png/revision/latest?cb=20211213041138" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902150000 +0800" stop="20230902153000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP16 君は君のままで, Kimi wa Kimi no mama de)</title>
+    <desc lang="en">"Humanity must not venture into space..." Kanata and the others struggle to take in those words, but just then the small monster Spinnie appears, and a TPU all-member operation begins to capture it. After all of their plans to capture it fail and Spinnie makes fun of him, Kanata vents by saying something horrible to Ryuumon...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902153000 +0800" stop="20230902160000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP17 Investigation from the Past 過去よりの調べ, Kako yori no Shirabe)</title>
+    <desc lang="en">Captian Murahoshi is under investigation?! The Director of the TPU's Internal Affairs, Agent Nigel, suspects Captain and Agams might be working together. Kanata is shocked, but Nigel shows no mercy and looks for any suspicious acitivity from Murahoshi. Why doesn't Nigel trust Murahoshi? Is there any way to clear Captain's name?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902160000 +0800" stop="20230902163000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP18 Invitation from Another Dimension 異次元からのいざない, I Jigen Kara no Izanai)</title>
+    <desc lang="en">A sudden sinkhole appears in the city. Analysis shows it was caused by something beyond an average monster... Kanata, Ichika, and Ryumon head down to investigate where they encounter a mysterious shadow. Suddenly, Agams shows up again! Can Kanata keep his promise to save Agams?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902163000 +0800" stop="20230902170000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP19 Warriors on the Moon 月面の戦士たち, Getsumen no Senshi-tachi)</title>
+    <desc lang="en">Kanata a.k.a. Ultraman Decker is thrown into another dimension by the extradimensional being Yapool! Just where in space has he been sent to? Kengo a.k.a. Ultraman Trigger comes to the rescue. Kanata and Kengo enjoy a moving reunion on the TPU's Lunar Base, but Yapool's evil reach isn't far behind...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902170000 +0800" stop="20230902173000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP20 Lord Ragon らごんさま, Ragon-sama)</title>
+    <desc lang="en">An incident of an attacking from an unidentified monster takes place in a modern city, built where it which was once an ocean, Wadatsumi City!! Kaizaki and Ichika are immediately sent to investigate. The pair find a suspicious old woman, a mysterious girl, a crowd wearing peculiar masks, and a strange green creature. Is this a place where myterious events gather?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902173000 +0800" stop="20230902180000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP15. A Warrior's Duty, 戦士の使命, Senshi no Shimei)</title>
+    <desc lang="en">Emergency contact from Ultraman Geed! It seems that a distortion is created in the universe, and a void monster, Greeza, who returns everything to nothing, appears. We need new power to face this threat! Yes, the strongest figure of Ultraman Z is born here now!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902180000 +0800" stop="20230902183000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP16. The Lion's Cry 獅子の声, Shishi no Koe)</title>
+    <desc lang="en">The day has come for Horoboros, a monster that Yuka saw as a child, to awaken from its long slumber! The key to appeasing the raging Horoboros lies in a mysterious word recorded in an ancient document. Yuka sets out to decipher this writing, but Kaburagi's dark power is reaching out to Horoboros...!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902183000 +0800" stop="20230902190000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP17.Beliarok ベリアロク, Beriaroku)</title>
+    <desc lang="en">The Space Pirate, Alien Barossa, has returned! Alien Barossa is determined to steal Ultraman Z's new weapon. Beliarok. Our hero cannot allow Beliarok's hidden power to fall into the hands of an evil alien. With Juggler also in the mix. the battle for the mystic sword begins!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902190000 +0800" stop="20230902193000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP18. Rechallenge from the Year 2020 2020年の再挑戦, Nisen Nijū-nen no Sai Chōsen)</title>
+    <desc lang="en">While investigating the curious case of a vanishing monster. Haruki meets Kaori, a mysterious woman glaring at an old ferris wheel. Meanwhile, people are going missing from the town one after another...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902193000 +0800" stop="20230902200000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP19. The Last Hero 最後の勇者, Saigo no Yūsha)</title>
+    <desc lang="en">The sky has shattered like glass! From the alternate dimension on the other side, a terrible monster Baraba appeared! As Ultraman Z and the others struggle in the face of Baraba's persistent attacks, Ultraman Ace rushes to the scene for help!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902200000 +0800" stop="20230902203000 +0800" channel="AS400">
+    <title lang="en">Ultraman Z (EP20. To Care and What Lies Beyond 想い、その先に, Omoi, Sono Sakini)</title>
+    <desc lang="en">The Artificial Life Form M1, created by Chief Mechanic Kojiro Inaba’s daughter Ruri, has malfunctioned and become gigantic! M1 doesn’t have bad intentions, but like this, it can do some serious damage! STORAGE puts a major operation into motion in order to stop M1 before it reaches the metropolitan area. Will they be able to save M1?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902203000 +0800" stop="20230902210000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP16)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 2: Rei and Mebius (大怪獣バトル ウルトラ銀河伝説 「第２章　レイとメビウス」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Ni Shō: Rei to Mebiusu)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902210000 +0800" stop="20230902213000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP17)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 3: The Monster Graveyard Battle (大怪獣バトル ウルトラ銀河伝説 「第３章　怪獣墓場の決戦」, Daikaijū Batoru Urutora Ginga Densetsu - Dai San Shō: Kaijū Hagaba no Kessen)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902213000 +0800" stop="20230902220000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP18)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 4: Ultraman Zero Arrives (大怪獣バトル ウルトラ銀河伝説 「第４章　ウルトラマンゼロ参上」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Yon Shō: Urutoraman Zero Sanjō)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902220000 +0800" stop="20230902223000 +0800" channel="AS400">
+    <title lang="en">Ultraman Zero: The Chronicle (EP19)</title>
+    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Final Chapter: Restore the Light of the Galaxy (大怪獣バトル ウルトラ銀河伝説 「最終章　よみがえれ銀河の光」, Daikaijū Batoru Urutora Ginga Densetsu - Saishū Shō: Yomigaere Ginga no Hikari)</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902223000 +0800" stop="20230902230000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP17 Investigation from the Past 過去よりの調べ, Kako yori no Shirabe)</title>
+    <desc lang="en">Captian Murahoshi is under investigation?! The Director of the TPU's Internal Affairs, Agent Nigel, suspects Captain and Agams might be working together. Kanata is shocked, but Nigel shows no mercy and looks for any suspicious acitivity from Murahoshi. Why doesn't Nigel trust Murahoshi? Is there any way to clear Captain's name?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902230000 +0800" stop="20230902233000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP18 Invitation from Another Dimension 異次元からのいざない, I Jigen Kara no Izanai)</title>
+    <desc lang="en">A sudden sinkhole appears in the city. Analysis shows it was caused by something beyond an average monster... Kanata, Ichika, and Ryumon head down to investigate where they encounter a mysterious shadow. Suddenly, Agams shows up again! Can Kanata keep his promise to save Agams?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230902233000 +0800" stop="20230902000000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP19 Warriors on the Moon 月面の戦士たち, Getsumen no Senshi-tachi)</title>
+    <desc lang="en">Kanata a.k.a. Ultraman Decker is thrown into another dimension by the extradimensional being Yapool! Just where in space has he been sent to? Kengo a.k.a. Ultraman Trigger comes to the rescue. Kanata and Kengo enjoy a moving reunion on the TPU's Lunar Base, but Yapool's evil reach isn't far behind...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230901000000 +0800" stop="20230901010000 +0800" channel="AS809">
+    <title lang="en">Rugby World Cup Archive</title>
+    <desc lang="en">Rugby World Cup Archive: History of RWC, Part 1</desc>
+    <category lang="en">Rugby</category>
+    <icon src="https://www.sportstourismnews.com/wp-content/uploads/2021/02/Rugby-World-Cup-2023-logo-930x600.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230901010000 +0800" stop="20230901013000 +0800" channel="AS809">
+    <title lang="en">Rugby World Cup Classic Matches</title>
+    <desc lang="en">Rugby World Cup Classic Matches: New Zealand vs France 1987</desc>
+    <category lang="en">Rugby</category>
+    <icon src="https://www.sportstourismnews.com/wp-content/uploads/2021/02/Rugby-World-Cup-2023-logo-930x600.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230901013000 +0800" stop="20230901020000 +0800" channel="AS809">
+    <title lang="en">Rugby World Cup Classic Matches</title>
+    <desc lang="en">Rugby World Cup Classic Matches: New Zealand vs Wales 1987</desc>
+    <category lang="en">Rugby</category>
+    <icon src="https://www.sportstourismnews.com/wp-content/uploads/2021/02/Rugby-World-Cup-2023-logo-930x600.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
