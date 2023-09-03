@@ -25,393 +25,6 @@
 	<display-name lang="en">AS809</display-name>
     <url>http://www.astro.com.my</url>
 </channel>
-<programme start="20230903003000 +0800" stop="20230903010000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP15. A Warrior's Duty, 戦士の使命, Senshi no Shimei)</title>
-    <desc lang="en">Emergency contact from Ultraman Geed! It seems that a distortion is created in the universe, and a void monster, Greeza, who returns everything to nothing, appears. We need new power to face this threat! Yes, the strongest figure of Ultraman Z is born here now!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903010000 +0800" stop="20230903013000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP16. The Lion's Cry 獅子の声, Shishi no Koe)</title>
-    <desc lang="en">The day has come for Horoboros, a monster that Yuka saw as a child, to awaken from its long slumber! The key to appeasing the raging Horoboros lies in a mysterious word recorded in an ancient document. Yuka sets out to decipher this writing, but Kaburagi's dark power is reaching out to Horoboros...!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903013000 +0800" stop="20230903020000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP17.Beliarok ベリアロク, Beriaroku)</title>
-    <desc lang="en">The Space Pirate, Alien Barossa, has returned! Alien Barossa is determined to steal Ultraman Z's new weapon. Beliarok. Our hero cannot allow Beliarok's hidden power to fall into the hands of an evil alien. With Juggler also in the mix. the battle for the mystic sword begins!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903020000 +0800" stop="20230903023000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP18. Rechallenge from the Year 2020 2020年の再挑戦, Nisen Nijū-nen no Sai Chōsen)</title>
-    <desc lang="en">While investigating the curious case of a vanishing monster. Haruki meets Kaori, a mysterious woman glaring at an old ferris wheel. Meanwhile, people are going missing from the town one after another...</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903023000 +0800" stop="20230903030000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP19. The Last Hero 最後の勇者, Saigo no Yūsha)</title>
-    <desc lang="en">The sky has shattered like glass! From the alternate dimension on the other side, a terrible monster Baraba appeared! As Ultraman Z and the others struggle in the face of Baraba's persistent attacks, Ultraman Ace rushes to the scene for help!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903030000 +0800" stop="20230903033000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP20. To Care and What Lies Beyond 想い、その先に, Omoi, Sono Sakini)</title>
-    <desc lang="en">The Artificial Life Form M1, created by Chief Mechanic Kojiro Inaba's daughter Ruri, has malfunctioned and become gigantic! M1 doesn’t have bad intentions, but like this, it can do some serious damage! STORAGE puts a major operation into motion in order to stop M1 before it reaches the metropolitan area. Will they be able to save M1?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903033000 +0800" stop="20230903040000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP16)</title>
-    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 2: Rei and Mebius (大怪獣バトル ウルトラ銀河伝説 「第２章　レイとメビウス」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Ni Shō: Rei to Mebiusu)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903040000 +0800" stop="20230903043000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP17)</title>
-    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 3: The Monster Graveyard Battle (大怪獣バトル ウルトラ銀河伝説 「第３章　怪獣墓場の決戦」, Daikaijū Batoru Urutora Ginga Densetsu - Dai San Shō: Kaijū Hagaba no Kessen)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903043000 +0800" stop="20230903050000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP18)</title>
-    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Chapter 4: Ultraman Zero Arrives (大怪獣バトル ウルトラ銀河伝説 「第４章　ウルトラマンゼロ参上」, Daikaijū Batoru Urutora Ginga Densetsu - Dai Yon Shō: Urutoraman Zero Sanjō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903050000 +0800" stop="20230903053000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP19)</title>
-    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Final Chapter: Restore the Light of the Galaxy (大怪獣バトル ウルトラ銀河伝説 「最終章　よみがえれ銀河の光」, Daikaijū Batoru Urutora Ginga Densetsu - Saishū Shō: Yomigaere Ginga no Hikari)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903053000 +0800" stop="20230903060000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP20)</title>
-    <desc lang="en">Killer The Beatstar - Part 1: The Steel Army (キラー ザ ビートスター パート①「鋼鉄の軍団」, Kirā Za Bītosutā Pāto Wan - Kōtetsu no Gundan)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903060000 +0800" stop="20230903063000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP20. To Care and What Lies Beyond 想い、その先に, Omoi, Sono Sakini)</title>
-    <desc lang="en">The Artificial Life Form M1, created by Chief Mechanic Kojiro Inaba's daughter Ruri, has malfunctioned and become gigantic! M1 doesn’t have bad intentions, but like this, it can do some serious damage! STORAGE puts a major operation into motion in order to stop M1 before it reaches the metropolitan area. Will they be able to save M1?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903063000 +0800" stop="20230903070000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP21. D4, ディーフォー)</title>
-    <desc lang="en">A new weapon has been developed from the recovered remains of Baraba that uses the abilities of the Extradimensional Being Yapool! Haruki and the others are against using this weapon’s terrible powers, but at that moment, the Brutal Space Monster Kelbim appears! The new weapon, “D4,” is equipped to King Joe STORAGE Custom. Will Yoko be able to pull the trigger?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903070000 +0800" stop="20230903073000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP22. Individual Tomorrows それぞれの明日, Sorezore no Ashita)</title>
-    <desc lang="en">As Haruki and Yoko are strolling through town, they once again run into the Space Pirate! Alien Barossa boasts that he will get his revenge for the defeat of his brothers. In the face of this powerful enemy’s attack, SC-1 Sevenger, which was headed for a museum, shows activity for the first time in a while!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903073000 +0800" stop="20230903080000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP23. Prelude to a Nightmare 悪夢へのプレリュード, Akumu e no Pureryūdo)</title>
-    <desc lang="en">STORAGE has developed the 4th Special Airborne Armor, Ultroid Zero, based on analysis of Ultraman! Yoko is chosen as its pilot, but on the day of its launch test, monsters begin to rampage all over the place! In the face of a monster attack of unprecedented scale, STORAGE unveils their most powerful robot to show off its true strength!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903080000 +0800" stop="20230903083000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP24. The Game to Extinction 滅亡への遊戯, Metsubō e no Yūgi)</title>
-    <desc lang="en">Juggler has finally revealed his true form to Haruki. Meanwhile, Celebro puts his final plan into motion. With their respective objectives out in the open, the situation takes a turn for the worse! As the shadow of despair creeps closer, their final enemy appears as a nightmare given shape!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903083000 +0800" stop="20230903090000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP25. Warriors Shining Beyond 遥かに輝く戦士たち, Haruka ni Kagayaku Senshi-tachi)</title>
-    <desc lang="en">In the face of a brutal assault by the formidable Destrudos, Haruki and Ultraman Z are gravely injured. Meanwhile, STORAGE attempts a desperate, all-out attack in order to rescue Yoko, who has fallen into the enemy’s clutches!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903090000 +0800" stop="20230903093000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP19)</title>
-    <desc lang="en">Mega Monster Battle: Ultra Galaxy Legends - Final Chapter: Restore the Light of the Galaxy (大怪獣バトル ウルトラ銀河伝説 「最終章　よみがえれ銀河の光」, Daikaijū Batoru Urutora Ginga Densetsu - Saishū Shō: Yomigaere Ginga no Hikari)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903093000 +0800" stop="20230903100000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP20)</title>
-    <desc lang="en">Killer The Beatstar - Part 1: The Steel Army (キラー ザ ビートスター パート①「鋼鉄の軍団」, Kirā Za Bītosutā Pāto Wan - Kōtetsu no Gundan)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903100000 +0800" stop="20230903103000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP21)</title>
-    <desc lang="en">Killer The Beatstar - Part 2: The Steel Dictator (キラー ザ ビートスター パート②「鋼の独裁者」, Kirā Za Bītosutā Pāto Tsu - Hagane no Dokusai-sha)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903103000 +0800" stop="20230903110000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP22)</title>
-    <desc lang="en">Killer The Beatstar - Part 3: The Steel Tears (キラー ザ ビートスター パート③「鋼鉄の涙」, Kirā Za Bītosutā Pāto Tsu - Hagane no Namida)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903110000 +0800" stop="20230903113000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP23)</title>
-    <desc lang="en">Ultraman Zero - Hero Retsuden (ウルトラマンゼロ 英雄列伝, Urutoraman Zero Eiyū Retsuden): The same as episode 79 of Ultraman Retsuden, this episode highlights clips from multiple Zero movies and specials</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903113000 +0800" stop="20230903120000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP24)</title>
-    <desc lang="en">Ultra Zero Fight - Shining Zero (Part 1) (ウルトラゼロファイト 輝きのゼロ（前編）, Urutora Zero Faito Kagayaki no Zero (Zenpen))</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903120000 +0800" stop="20230903131000 +0800" channel="AS400">
-    <title lang="en">Ultraman Taiga The Movie (New Generation Climax)</title>
-    <desc lang="en">Hiroyuki Kudo, working at the private security organization EGIS, has the power to transform into three Ultra Heroes: Taiga, Titas, and Fuma. Battling and defeating many enemies together, the bond between Hiroyuki and Taiga has deepened. However, someone has been targeting Hiroyuki. Noticing this, the New Generation Heroes come together to save him. Hikaru, Sho, Daichi, Gai, Riku, Katsumi, Isami, and even Taiga’s father Ultraman Taro have all come down to Earth. However, Ultraman Taro violently attacks his son Taiga. What happened to Taro? Will Taiga be able to fight against his father!? The New Generation Heroes now stand together to confront a bigger, darker power!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://news.ultramanconnection.com/wp-content/uploads/2022/10/62d70fd3cc456dc40514dcec_ULTRAMAN-TAIGA-NEXT-FEATURE-FILM-TO-HIT-THEATERS-IN-JAPAN.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903131000 +0800" stop="20230903134000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP20 Lord Ragon らごんさま, Ragon-sama)</title>
-    <desc lang="en">An incident of an attacking from an unidentified monster takes place in a modern city, built where it which was once an ocean, Wadatsumi City!! Kaizaki and Ichika are immediately sent to investigate. The pair find a suspicious old woman, a mysterious girl, a crowd wearing peculiar masks, and a strange green creature. Is this a place where myterious events gather?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903134000 +0800" stop="20230903141000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP21 The Price of Prosperity 繁栄の代償, Han'ei no Daishō)</title>
-    <desc lang="en">The S-Plasma fusion reactor is a new technology in development. The tremendous energy it could produce has the potential to allow humanity to reach the speed of light. However, this unknown energy source is concealed as a secret... Monsters are born, Agams' shadow squirms, and a truth is revealed. How will Kanata react to this crisis?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903141000 +0800" stop="20230903144000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP22 The Fall of Bazdo 衰亡のバズド, Suibō no Bazudo)</title>
-    <desc lang="en">Fugitive Agams suddenly reaches out to GUTS-Select and Captain Murahoshi is called to Agams’ hideout alone… Finally, Agams reveals the truth of the shocking events from the future timeline?! What does he mean by “Earthlings’ crime”? Can Kanata and GUTS-Select finally take Agams into custody?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903144000 +0800" stop="20230903151000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP23. Prelude to a Nightmare 悪夢へのプレリュード, Akumu e no Pureryūdo)</title>
-    <desc lang="en">STORAGE has developed the 4th Special Airborne Armor, Ultroid Zero, based on analysis of Ultraman! Yoko is chosen as its pilot, but on the day of its launch test, monsters begin to rampage all over the place! In the face of a monster attack of unprecedented scale, STORAGE unveils their most powerful robot to show off its true strength!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903151000 +0800" stop="20230903154000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP20. To Care and What Lies Beyond 想い、その先に, Omoi, Sono Sakini)</title>
-    <desc lang="en">The Artificial Life Form M1, created by Chief Mechanic Kojiro Inaba's daughter Ruri, has malfunctioned and become gigantic! M1 doesn’t have bad intentions, but like this, it can do some serious damage! STORAGE puts a major operation into motion in order to stop M1 before it reaches the metropolitan area. Will they be able to save M1?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903154000 +0800" stop="20230903161000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP21. D4, ディーフォー)</title>
-    <desc lang="en">A new weapon has been developed from the recovered remains of Baraba that uses the abilities of the Extradimensional Being Yapool! Haruki and the others are against using this weapon’s terrible powers, but at that moment, the Brutal Space Monster Kelbim appears! The new weapon, “D4,” is equipped to King Joe STORAGE Custom. Will Yoko be able to pull the trigger?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903161000 +0800" stop="20230903164000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP22. Individual Tomorrows それぞれの明日, Sorezore no Ashita)</title>
-    <desc lang="en">As Haruki and Yoko are strolling through town, they once again run into the Space Pirate! Alien Barossa boasts that he will get his revenge for the defeat of his brothers. In the face of this powerful enemy’s attack, SC-1 Sevenger, which was headed for a museum, shows activity for the first time in a while!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903164000 +0800" stop="20230903171000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP23. Prelude to a Nightmare 悪夢へのプレリュード, Akumu e no Pureryūdo)</title>
-    <desc lang="en">STORAGE has developed the 4th Special Airborne Armor, Ultroid Zero, based on analysis of Ultraman! Yoko is chosen as its pilot, but on the day of its launch test, monsters begin to rampage all over the place! In the face of a monster attack of unprecedented scale, STORAGE unveils their most powerful robot to show off its true strength!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903171000 +0800" stop="20230903174000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP24. The Game to Extinction 滅亡への遊戯, Metsubō e no Yūgi)</title>
-    <desc lang="en">Juggler has finally revealed his true form to Haruki. Meanwhile, Celebro puts his final plan into motion. With their respective objectives out in the open, the situation takes a turn for the worse! As the shadow of despair creeps closer, their final enemy appears as a nightmare given shape!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903174000 +0800" stop="20230903181000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP25. Warriors Shining Beyond 遥かに輝く戦士たち, Haruka ni Kagayaku Senshi-tachi)</title>
-    <desc lang="en">In the face of a brutal assault by the formidable Destrudos, Haruki and Ultraman Z are gravely injured. Meanwhile, STORAGE attempts a desperate, all-out attack in order to rescue Yoko, who has fallen into the enemy’s clutches!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903181000 +0800" stop="20230903184000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP20)</title>
-    <desc lang="en">Killer The Beatstar - Part 1: The Steel Army (キラー ザ ビートスター パート①「鋼鉄の軍団」, Kirā Za Bītosutā Pāto Wan - Kōtetsu no Gundan)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903184000 +0800" stop="20230903191000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP21)</title>
-    <desc lang="en">Killer The Beatstar - Part 2: The Steel Dictator (キラー ザ ビートスター パート②「鋼の独裁者」, Kirā Za Bītosutā Pāto Tsu - Hagane no Dokusai-sha)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903191000 +0800" stop="20230903194000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP22)</title>
-    <desc lang="en">Killer The Beatstar - Part 3: The Steel Tears (キラー ザ ビートスター パート③「鋼鉄の涙」, Kirā Za Bītosutā Pāto Tsu - Hagane no Namida)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903194000 +0800" stop="20230903201000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP23)</title>
-    <desc lang="en">Ultraman Zero - Hero Retsuden (ウルトラマンゼロ 英雄列伝, Urutoraman Zero Eiyū Retsuden): The same as episode 79 of Ultraman Retsuden, this episode highlights clips from multiple Zero movies and specials</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903201000 +0800" stop="20230903204000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP24)</title>
-    <desc lang="en">Ultra Zero Fight - Shining Zero (Part 1) (ウルトラゼロファイト 輝きのゼロ（前編）, Urutora Zero Faito Kagayaki no Zero (Zenpen))</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903204000 +0800" stop="20230903223000 +0800" channel="AS400">
-    <title lang="en">Ultra Galaxy Fight: The Absolute Conspiracy</title>
-    <desc lang="en">Together with Ultraman Max, Ultraman Ribut senses a strange presence on a certain planet... However, it's a trap set by an enemy seeking revenge.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/3/3b/UGFTACTitle.png/revision/latest?cb=20211213041138" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903223000 +0800" stop="20230903230000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP20 Lord Ragon らごんさま, Ragon-sama)</title>
-    <desc lang="en">An incident of an attacking from an unidentified monster takes place in a modern city, built where it which was once an ocean, Wadatsumi City!! Kaizaki and Ichika are immediately sent to investigate. The pair find a suspicious old woman, a mysterious girl, a crowd wearing peculiar masks, and a strange green creature. Is this a place where myterious events gather?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903230000 +0800" stop="20230903233000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP21 The Price of Prosperity 繁栄の代償, Han'ei no Daishō)</title>
-    <desc lang="en">The S-Plasma fusion reactor is a new technology in development. The tremendous energy it could produce has the potential to allow humanity to reach the speed of light. However, this unknown energy source is concealed as a secret... Monsters are born, Agams' shadow squirms, and a truth is revealed. How will Kanata react to this crisis?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230903233000 +0800" stop="20230904000000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP22 The Fall of Bazdo 衰亡のバズド, Suibō no Bazudo)</title>
-    <desc lang="en">Fugitive Agams suddenly reaches out to GUTS-Select and Captain Murahoshi is called to Agams’ hideout alone… Finally, Agams reveals the truth of the shocking events from the future timeline?! What does he mean by “Earthlings’ crime”? Can Kanata and GUTS-Select finally take Agams into custody?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20230904000000 +0800" stop="20230904003000 +0800" channel="AS400">
     <title lang="en">Ultraman Decker (EP23 The Sky of Despair 絶望の空, Zetsubō no Sora)</title>
     <desc lang="en">Agams is an entirely different person after his fight with Decker. Kanata searches how to save Agams from himself, meeting with the captured fugitive. They have a peaceful talk for the first time in a while gives Kanata a glimpse of Agams’ true feelings… But suddenly Sphere attacks, ruining the moment, and then an ominous, great shadow appears?!</desc>
@@ -1186,11 +799,776 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="20230903001500 +0800" stop="20230903060000 +0800" channel="AS795">
-    <title lang="en">ASSP - Thank You</title>
-    <desc lang="en">Thank you for watching the live broadcast of the Premier League 23/24, Match Week 4.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+<programme start="20230906000000 +0800" stop="20230906003000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP01 Day of the Attack (襲来の日, Shūrai no hi)</title>
+    <desc lang="en">Several years after the world was saved by Ultraman Trigger, mankind has turned its gaze skywards to space. Suddenly, unidentified orbs dubbed “Sphere” invade! They begin their attack on Earth. Asumi Kanata, son of a rice cracker grocer, witnesses this tragedy unfold before him, and vows to protect the people. As he does, he is enveloped in light! And the new form he takes on... Is it a new Ultraman?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906003000 +0800" stop="20230906010000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP02 Kanata's Resolve 決意のカナタ, Ketsui no Kanata)</title>
+    <desc lang="en">Kanata enters the TPU training school, and begins marching drills with classmates Ichika and Ryumon. However, he and Ryumon start butting heads after a difference in opinion... Just then, Deathdrago appears before them! Will Kanata pull through this deadly situation? And can the three of them become members of GUTS-Select?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906010000 +0800" stop="20230906013000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP03 Move Out, GUTS-Select! 出動! GUTS-Select, Shutsudō! Gattsu Serekuto)</title>
+    <desc lang="en">A new aircraft GUTS Hawk deploys to GUTS-Select. To fully utilize its power, GUTS-Select need to coordinate with the Hawk's AI pilot, HANE2! But communicating with HANE2 proves a difficult task for Kanata and his team mates …. The sudden appearance of Gomora only adds to their difficulties. Don't give up, Decker! Use your new power to save the day!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906013000 +0800" stop="20230906020000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP05 Glutton of the Lake 湖の食いしん坊, Mizu'umi no Kuishinbō)</title>
+    <desc lang="en">Eleking suddenly appeared in the city! Ichika meets a mysterious girl named Yuko at the scene. Recently, Eleking has been stealing and eating electricity, but is there any connection between the two? In addition, there is something strange with Ichika's encounter with Yuko. Where will her straight forward feelings lead her?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906020000 +0800" stop="20230906023000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep06)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906023000 +0800" stop="20230906030000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep07)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906030000 +0800" stop="20230906033000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906033000 +0800" stop="20230906040000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906040000 +0800" stop="20230906043000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP03 The Name is Earth Garon の名はアースガロン, Sonona wa Āsu Garon)</title>
+    <desc lang="en">SKaRD finally welcomes the last member, Yasunobu, who had been involved with the development of the new weapon, Earth Garon. Now with the whole team gathered, they begin to train against kaiju. In the midst of this, they are informed of a mysterious phenomenon occuring around the world. Storage tanks with new energy sources are being emptied over night... SKaRD believes that this is caused by a kaiju and deploys Earth Garon to the field for the first time.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906043000 +0800" stop="20230906050000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP04 Thus Fought Emi エミ、かく戦えり, Emi, Kaku Tatakeri)</title>
+    <desc lang="en">Three months ago, the kaiju, Leviera, appeared out of nowhere. The only way to deal with it was to temporarily drive it away with a new disinfectant, FK1, developed by the major chemical company Novaio. There is a strange link between this mysterious kaiju and Novaio... In order to find out the truth, Emi goes undercover to work under Sonezaki, the CEO of Novaio!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906050000 +0800" stop="20230906053000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906053000 +0800" stop="20230906060000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906060000 +0800" stop="20230906063000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP04 Thus Fought Emi エミ、かく戦えり, Emi, Kaku Tatakeri)</title>
+    <desc lang="en">Three months ago, the kaiju, Leviera, appeared out of nowhere. The only way to deal with it was to temporarily drive it away with a new disinfectant, FK1, developed by the major chemical company Novaio. There is a strange link between this mysterious kaiju and Novaio... In order to find out the truth, Emi goes undercover to work under Sonezaki, the CEO of Novaio!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906063000 +0800" stop="20230906070000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906070000 +0800" stop="20230906073000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906073000 +0800" stop="20230906080000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
+    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906080000 +0800" stop="20230906083000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP08 Rainbow Appears: Part 2 虹が出た（後編）, Niji ga deta (Kōhen))</title>
+    <desc lang="en">The typhoons that Nijikagachi created are about to wash away civilization. Gento decides to deploy Earth Garon's new Mod.2 unit into battle to defeat Nijikagachi. Teruaki, who had a deep respect for Yokomine, goes to persuade the mastermind of the plot.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906083000 +0800" stop="20230906090000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP09 Planet of Music オトノホシ, Otonohoshi)</title>
+    <desc lang="en">Anri receives a letter. It contained a concert ticket for a band led by Hoichi Tsukushi, someone that Anri had gotten to know through music. That's when the robot kaiju Garamon appears from a meteorite that came from outer space. Anri realizes that Garamon's behavior is controlled by a mysterious sound wave, and she has a hunch...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906090000 +0800" stop="20230906093000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP01 Day of the Attack (襲来の日, Shūrai no hi)</title>
+    <desc lang="en">Several years after the world was saved by Ultraman Trigger, mankind has turned its gaze skywards to space. Suddenly, unidentified orbs dubbed “Sphere” invade! They begin their attack on Earth. Asumi Kanata, son of a rice cracker grocer, witnesses this tragedy unfold before him, and vows to protect the people. As he does, he is enveloped in light! And the new form he takes on... Is it a new Ultraman?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906093000 +0800" stop="20230906100000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP02 Kanata's Resolve 決意のカナタ, Ketsui no Kanata)</title>
+    <desc lang="en">Kanata enters the TPU training school, and begins marching drills with classmates Ichika and Ryumon. However, he and Ryumon start butting heads after a difference in opinion... Just then, Deathdrago appears before them! Will Kanata pull through this deadly situation? And can the three of them become members of GUTS-Select?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906100000 +0800" stop="20230906103000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP03 Move Out, GUTS-Select! 出動! GUTS-Select, Shutsudō! Gattsu Serekuto)</title>
+    <desc lang="en">A new aircraft GUTS Hawk deploys to GUTS-Select. To fully utilize its power, GUTS-Select need to coordinate with the Hawk's AI pilot, HANE2! But communicating with HANE2 proves a difficult task for Kanata and his team mates …. The sudden appearance of Gomora only adds to their difficulties. Don't give up, Decker! Use your new power to save the day!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906103000 +0800" stop="20230906110000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP04 The Destructive Monster Awakens 破壊獣覚醒, Hakaijū Kakusei)</title>
+    <desc lang="en">A mysterious giant capsule suddenly appears in a forgotten onsen (hot spring) town! Although, the mayor is taking pictures and looks oddly happy? Mons-Ahgar appears to throw GUTS-Select and the town further into chaos! Their hopes to save the day lie in promising new technology, and so Kanata and crew turn their efforts into combining the two GUTS aircrafts into one: the GUTS Gryphon!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906110000 +0800" stop="20230906113000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP05 Glutton of the Lake 湖の食いしん坊, Mizu'umi no Kuishinbō)</title>
+    <desc lang="en">Eleking suddenly appeared in the city! Ichika meets a mysterious girl named Yuko at the scene. Recently, Eleking has been stealing and eating electricity, but is there any connection between the two? In addition, there is something strange with Ichika's encounter with Yuko. Where will her straight forward feelings lead her?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906113000 +0800" stop="20230906120000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP06 Subterranean Monster Appears! And Appears! 地底怪獣現わる! 現わる!, Chitei Kaijū Arawaru! Arawaru!)</title>
+    <desc lang="en">A sazame bamboo flower, a harbinger of disaster blooms. A golden rainbow appears in the sky and a subterranean monster emerges. Ryumon is injured in this unprecedented situation. Kanata tries to cheer him up, but... What is Ryumon staring at?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906120000 +0800" stop="20230906141500 +0800" channel="AS400">
+    <title lang="en">Ultra Galaxy Fight (The Destined Crossroad)</title>
+    <desc lang="en">Ultra Galaxy Fight: The Destined Crossroad is the third installment of the Ultra Galaxy Fight series, continued from the previous series Ultra Galaxy Fight: The Absolute Conspiracy which had a shocking ending. Ultra Heroes vs Absolutian, the destined battle is about to reshape the galaxy!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://news.ultramanconnection.com/wp-content/uploads/2022/10/62d70a2898f17d6b9a8422a6_ULTRA-GALAXY-FIGHT_-THE-DESTINED-CROSSROAD-TO-PREMIERE-ON-ULTRAMAN-CONNECTION.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906141500 +0800" stop="20230906144500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep06)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906144500 +0800" stop="20230906151500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep07)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906151500 +0800" stop="20230906154500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906154500 +0800" stop="20230906161500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906161500 +0800" stop="20230906164500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906164500 +0800" stop="20230906171500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP04 Thus Fought Emi エミ、かく戦えり, Emi, Kaku Tatakeri)</title>
+    <desc lang="en">Three months ago, the kaiju, Leviera, appeared out of nowhere. The only way to deal with it was to temporarily drive it away with a new disinfectant, FK1, developed by the major chemical company Novaio. There is a strange link between this mysterious kaiju and Novaio... In order to find out the truth, Emi goes undercover to work under Sonezaki, the CEO of Novaio!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906171500 +0800" stop="20230906174500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906174500 +0800" stop="20230906181500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906181500 +0800" stop="20230906184500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
+    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906184500 +0800" stop="20230906191500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep07)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906191500 +0800" stop="20230906194500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906194500 +0800" stop="20230906201500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906201500 +0800" stop="20230906204500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906204500 +0800" stop="20230906220000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger Episode Z</title>
+    <desc lang="en">Two years have passed since the final battle and peace has been restored around the globe. However, things don't stay quiet for long when monsters once again begin to appear on Earth. At the same time, a series of mysterious break-ins take place at super ancient ruins around the world. Expert team GUTS-Select, led by a new captain, prepares the squad to launch an investigation. Little do they know, it is the beginning of a fierce battle with the fate of the universe in the balance. GUTS-Select and Ultraman Z rush into battle with our hero, Kengo Manaka, in the lead. A sinister figure emerges from the shadows: Evil Trigger, a sinister giant that inherits the shadow. To make everyone smile again, Ultraman Trigger and Haruki, human host of Ultraman Z, join forces with the new members of GUTS-Select as well as Ignis, human host of Trigger Dark, will take part in the ultimate battle between light and shadow!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KDONB_IVP_LAND_672x378_20221115_223556.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906220000 +0800" stop="20230906223000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP04 Thus Fought Emi エミ、かく戦えり, Emi, Kaku Tatakeri)</title>
+    <desc lang="en">Three months ago, the kaiju, Leviera, appeared out of nowhere. The only way to deal with it was to temporarily drive it away with a new disinfectant, FK1, developed by the major chemical company Novaio. There is a strange link between this mysterious kaiju and Novaio... In order to find out the truth, Emi goes undercover to work under Sonezaki, the CEO of Novaio!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906223000 +0800" stop="20230906230000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906230000 +0800" stop="20230906233000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230906233000 +0800" stop="20230907000000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
+    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907000000 +0800" stop="20230907003000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP02 Kanata's Resolve 決意のカナタ, Ketsui no Kanata)</title>
+    <desc lang="en">Kanata enters the TPU training school, and begins marching drills with classmates Ichika and Ryumon. However, he and Ryumon start butting heads after a difference in opinion... Just then, Deathdrago appears before them! Will Kanata pull through this deadly situation? And can the three of them become members of GUTS-Select?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907003000 +0800" stop="20230907010000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP03 Move Out, GUTS-Select! 出動! GUTS-Select, Shutsudō! Gattsu Serekuto)</title>
+    <desc lang="en">A new aircraft GUTS Hawk deploys to GUTS-Select. To fully utilize its power, GUTS-Select need to coordinate with the Hawk's AI pilot, HANE2! But communicating with HANE2 proves a difficult task for Kanata and his team mates …. The sudden appearance of Gomora only adds to their difficulties. Don't give up, Decker! Use your new power to save the day!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907010000 +0800" stop="20230907013000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP04 The Destructive Monster Awakens 破壊獣覚醒, Hakaijū Kakusei)</title>
+    <desc lang="en">A mysterious giant capsule suddenly appears in a forgotten onsen (hot spring) town! Although, the mayor is taking pictures and looks oddly happy? Mons-Ahgar appears to throw GUTS-Select and the town further into chaos! Their hopes to save the day lie in promising new technology, and so Kanata and crew turn their efforts into combining the two GUTS aircrafts into one: the GUTS Gryphon!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907013000 +0800" stop="20230907020000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP05 Glutton of the Lake 湖の食いしん坊, Mizu'umi no Kuishinbō)</title>
+    <desc lang="en">Eleking suddenly appeared in the city! Ichika meets a mysterious girl named Yuko at the scene. Recently, Eleking has been stealing and eating electricity, but is there any connection between the two? In addition, there is something strange with Ichika's encounter with Yuko. Where will her straight forward feelings lead her?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907020000 +0800" stop="20230907023000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep07)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907023000 +0800" stop="20230907030000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907030000 +0800" stop="20230907033000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907033000 +0800" stop="20230907040000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907040000 +0800" stop="20230907043000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP04 Thus Fought Emi エミ、かく戦えり, Emi, Kaku Tatakeri)</title>
+    <desc lang="en">Three months ago, the kaiju, Leviera, appeared out of nowhere. The only way to deal with it was to temporarily drive it away with a new disinfectant, FK1, developed by the major chemical company Novaio. There is a strange link between this mysterious kaiju and Novaio... In order to find out the truth, Emi goes undercover to work under Sonezaki, the CEO of Novaio!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907043000 +0800" stop="20230907050000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907050000 +0800" stop="20230907053000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907053000 +0800" stop="20230907060000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
+    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907060000 +0800" stop="20230907063000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907063000 +0800" stop="20230907070000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907070000 +0800" stop="20230907073000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
+    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907073000 +0800" stop="20230907080000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP08 Rainbow Appears: Part 2 虹が出た（後編）, Niji ga deta (Kōhen))</title>
+    <desc lang="en">The typhoons that Nijikagachi created are about to wash away civilization. Gento decides to deploy Earth Garon's new Mod.2 unit into battle to defeat Nijikagachi. Teruaki, who had a deep respect for Yokomine, goes to persuade the mastermind of the plot.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907080000 +0800" stop="20230907083000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP09 Planet of Music オトノホシ, Otonohoshi)</title>
+    <desc lang="en">Anri receives a letter. It contained a concert ticket for a band led by Hoichi Tsukushi, someone that Anri had gotten to know through music. That's when the robot kaiju Garamon appears from a meteorite that came from outer space. Anri realizes that Garamon's behavior is controlled by a mysterious sound wave, and she has a hunch...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907083000 +0800" stop="20230907090000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907090000 +0800" stop="20230907093000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP02 Kanata's Resolve 決意のカナタ, Ketsui no Kanata)</title>
+    <desc lang="en">Kanata enters the TPU training school, and begins marching drills with classmates Ichika and Ryumon. However, he and Ryumon start butting heads after a difference in opinion... Just then, Deathdrago appears before them! Will Kanata pull through this deadly situation? And can the three of them become members of GUTS-Select?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907093000 +0800" stop="20230907100000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP03 Move Out, GUTS-Select! 出動! GUTS-Select, Shutsudō! Gattsu Serekuto)</title>
+    <desc lang="en">A new aircraft GUTS Hawk deploys to GUTS-Select. To fully utilize its power, GUTS-Select need to coordinate with the Hawk's AI pilot, HANE2! But communicating with HANE2 proves a difficult task for Kanata and his team mates …. The sudden appearance of Gomora only adds to their difficulties. Don't give up, Decker! Use your new power to save the day!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907100000 +0800" stop="20230907103000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP04 The Destructive Monster Awakens 破壊獣覚醒, Hakaijū Kakusei)</title>
+    <desc lang="en">A mysterious giant capsule suddenly appears in a forgotten onsen (hot spring) town! Although, the mayor is taking pictures and looks oddly happy? Mons-Ahgar appears to throw GUTS-Select and the town further into chaos! Their hopes to save the day lie in promising new technology, and so Kanata and crew turn their efforts into combining the two GUTS aircrafts into one: the GUTS Gryphon!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907103000 +0800" stop="20230907110000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP05 Glutton of the Lake 湖の食いしん坊, Mizu'umi no Kuishinbō)</title>
+    <desc lang="en">Eleking suddenly appeared in the city! Ichika meets a mysterious girl named Yuko at the scene. Recently, Eleking has been stealing and eating electricity, but is there any connection between the two? In addition, there is something strange with Ichika's encounter with Yuko. Where will her straight forward feelings lead her?!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907110000 +0800" stop="20230907113000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP06 Subterranean Monster Appears! And Appears! 地底怪獣現わる! 現わる!, Chitei Kaijū Arawaru! Arawaru!)</title>
+    <desc lang="en">A sazame bamboo flower, a harbinger of disaster blooms. A golden rainbow appears in the sky and a subterranean monster emerges. Ryumon is injured in this unprecedented situation. Kanata tries to cheer him up, but... What is Ryumon staring at?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907113000 +0800" stop="20230907120000 +0800" channel="AS400">
+    <title lang="en">Ultraman Decker (EP07 The Light of Hope from the Red Planet 希望の光、赤き星より, Kibō no Hikari, Akaki Hoshi Yori)</title>
+    <desc lang="en">A mysterious energy is detected underground. Could it be?! The power of darkness defeated ten years ago?! As Kanata and crew are stunned with shock, from the sky the legendary giant himself lands before GUTS-Select; Ultraman Trigger! Decker and Trigger, the two Giants of Light begin their fight against the power of darkness!!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907120000 +0800" stop="20230907141500 +0800" channel="AS400">
+    <title lang="en">Ultra Galaxy Fight (The Destined Crossroad)</title>
+    <desc lang="en">Ultra Galaxy Fight: The Destined Crossroad is the third installment of the Ultra Galaxy Fight series, continued from the previous series Ultra Galaxy Fight: The Absolute Conspiracy which had a shocking ending. Ultra Heroes vs Absolutian, the destined battle is about to reshape the galaxy!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://news.ultramanconnection.com/wp-content/uploads/2022/10/62d70a2898f17d6b9a8422a6_ULTRA-GALAXY-FIGHT_-THE-DESTINED-CROSSROAD-TO-PREMIERE-ON-ULTRAMAN-CONNECTION.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907141500 +0800" stop="20230907144500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep07)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907144500 +0800" stop="20230907151500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907151500 +0800" stop="20230907154500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907154500 +0800" stop="20230907161500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907161500 +0800" stop="20230907164500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep11)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907164500 +0800" stop="20230907171500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907171500 +0800" stop="20230907174500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907174500 +0800" stop="20230907181500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
+    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907181500 +0800" stop="20230907184500 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP08 Rainbow Appears: Part 2 虹が出た（後編）, Niji ga deta (Kōhen))</title>
+    <desc lang="en">The typhoons that Nijikagachi created are about to wash away civilization. Gento decides to deploy Earth Garon's new Mod.2 unit into battle to defeat Nijikagachi. Teruaki, who had a deep respect for Yokomine, goes to persuade the mastermind of the plot.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907184500 +0800" stop="20230907191500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907191500 +0800" stop="20230907194500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907194500 +0800" stop="20230907201500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907201500 +0800" stop="20230907204500 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep11)</title>
+    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907204500 +0800" stop="20230907220000 +0800" channel="AS400">
+    <title lang="en">Ultraman Trigger Episode Z</title>
+    <desc lang="en">Two years have passed since the final battle and peace has been restored around the globe. However, things don't stay quiet for long when monsters once again begin to appear on Earth. At the same time, a series of mysterious break-ins take place at super ancient ruins around the world. Expert team GUTS-Select, led by a new captain, prepares the squad to launch an investigation. Little do they know, it is the beginning of a fierce battle with the fate of the universe in the balance. GUTS-Select and Ultraman Z rush into battle with our hero, Kengo Manaka, in the lead. A sinister figure emerges from the shadows: Evil Trigger, a sinister giant that inherits the shadow. To make everyone smile again, Ultraman Trigger and Haruki, human host of Ultraman Z, join forces with the new members of GUTS-Select as well as Ignis, human host of Trigger Dark, will take part in the ultimate battle between light and shadow!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KDONB_IVP_LAND_672x378_20221115_223556.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907220000 +0800" stop="20230907223000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
+    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907223000 +0800" stop="20230907230000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
+    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907230000 +0800" stop="20230907233000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
+    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230907233000 +0800" stop="20230908000000 +0800" channel="AS400">
+    <title lang="en">Ultraman Blazar (EP08 Rainbow Appears: Part 2 虹が出た（後編）, Niji ga deta (Kōhen))</title>
+    <desc lang="en">The typhoons that Nijikagachi created are about to wash away civilization. Gento decides to deploy Earth Garon's new Mod.2 unit into battle to defeat Nijikagachi. Teruaki, who had a deep respect for Yokomine, goes to persuade the mastermind of the plot.</desc>
+    <category lang="en">Ultraman</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
