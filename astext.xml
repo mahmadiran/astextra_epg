@@ -25,6 +25,10 @@
 	<display-name lang="en">AS809</display-name>
     <url>http://www.astro.com.my</url>
 </channel>
+<channel id="AS825">
+	<display-name lang="en">AS825</display-name>
+    <url>http://www.astro.com.my</url>
+</channel>
 <programme start="20230908000000 +0800" stop="20230908003000 +0800" channel="AS400">
     <title lang="en">Ultraman Decker (EP02 Kanata's Resolve 決意のカナタ, Ketsui no Kanata)</title>
     <desc lang="en">Kanata enters the TPU training school, and begins marching drills with classmates Ichika and Ryumon. However, he and Ryumon start butting heads after a difference in opinion... Just then, Deathdrago appears before them! Will Kanata pull through this deadly situation? And can the three of them become members of GUTS-Select?!</desc>
@@ -1587,6 +1591,69 @@
     <desc lang="en">Ultraman Zero VS Darklops Zero - Part 2: Magic Bullet of Darkness (ウルトラマンゼロVSダークロプスゼロ パート②「暗黒の魔弾」, Urutoraman Zero VS Dākuropusu Zero Pāto Tsu - Ankoku no Madan)</desc>
     <category lang="en">Ultraman</category>
     <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230908180000 +0800" stop="20230908192000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 & New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230908192000 +0800" stop="20230909004000 +0800" channel="AS825">
+    <title lang="en">(L) 1st ODi: ENG v NZ</title>
+    <desc lang="en">LIVE: New Zealand tour of England 2023 from England</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://crickettimes.com/wp-content/uploads/2023/09/England-vs-New-Zealand-Dream-11-Prediction-for-1st-ODI.webp" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230909004000 +0800" stop="20230909060000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230909060000 +0800" stop="20230909120000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230909120000 +0800" stop="20230909175000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230909175000 +0800" stop="20230910023000 +0800" channel="AS825">
+    <title lang="en">(L) 1st ODi: SL vs ENG</title>
+    <desc lang="en">LIVE: Sri Lanka Women tour of England 2023 from England</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHTZn4KIDQDXbQVSj-lBJdzXFTZTIPVCjEoFI9CtiSWZFoe5RNIEHjoBEtGDgcmbOwrXJHiM0M6Yi3gmnUeE9OAvIgYdYN8CUtQ-hOTfRewi0P-CF0pGuP_F3zbCBLmdkn2ooOlH55vtA9gH-MyLnbtYxyN8EczdQYzd2LCp1AUIOrnKVnNj5_mael/s1600/Sri" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230910023000 +0800" stop="20230910060000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
