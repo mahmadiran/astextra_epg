@@ -29,393 +29,6 @@
 	<display-name lang="en">AS825</display-name>
     <url>http://www.astro.com.my</url>
 </channel>
-<programme start="20230908000000 +0800" stop="20230908003000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP02 Kanata's Resolve 決意のカナタ, Ketsui no Kanata)</title>
-    <desc lang="en">Kanata enters the TPU training school, and begins marching drills with classmates Ichika and Ryumon. However, he and Ryumon start butting heads after a difference in opinion... Just then, Deathdrago appears before them! Will Kanata pull through this deadly situation? And can the three of them become members of GUTS-Select?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908003000 +0800" stop="20230908010000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP03 Move Out, GUTS-Select! 出動! GUTS-Select, Shutsudō! Gattsu Serekuto)</title>
-    <desc lang="en">A new aircraft GUTS Hawk deploys to GUTS-Select. To fully utilize its power, GUTS-Select need to coordinate with the Hawk's AI pilot, HANE2! But communicating with HANE2 proves a difficult task for Kanata and his team mates …. The sudden appearance of Gomora only adds to their difficulties. Don't give up, Decker! Use your new power to save the day!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908010000 +0800" stop="20230908013000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP04 The Destructive Monster Awakens 破壊獣覚醒, Hakaijū Kakusei)</title>
-    <desc lang="en">A mysterious giant capsule suddenly appears in a forgotten onsen (hot spring) town! Although, the mayor is taking pictures and looks oddly happy? Mons-Ahgar appears to throw GUTS-Select and the town further into chaos! Their hopes to save the day lie in promising new technology, and so Kanata and crew turn their efforts into combining the two GUTS aircrafts into one: the GUTS Gryphon!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908013000 +0800" stop="20230908020000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP05 Glutton of the Lake 湖の食いしん坊, Mizu'umi no Kuishinbō)</title>
-    <desc lang="en">Eleking suddenly appeared in the city! Ichika meets a mysterious girl named Yuko at the scene. Recently, Eleking has been stealing and eating electricity, but is there any connection between the two? In addition, there is something strange with Ichika's encounter with Yuko. Where will her straight forward feelings lead her?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908020000 +0800" stop="20230908023000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep07)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908023000 +0800" stop="20230908030000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908030000 +0800" stop="20230908033000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908033000 +0800" stop="20230908040000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908040000 +0800" stop="20230908043000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP04 Thus Fought Emi エミ、かく戦えり, Emi, Kaku Tatakeri)</title>
-    <desc lang="en">Three months ago, the kaiju, Leviera, appeared out of nowhere. The only way to deal with it was to temporarily drive it away with a new disinfectant, FK1, developed by the major chemical company Novaio. There is a strange link between this mysterious kaiju and Novaio... In order to find out the truth, Emi goes undercover to work under Sonezaki, the CEO of Novaio!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908043000 +0800" stop="20230908050000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
-    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908050000 +0800" stop="20230908053000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
-    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908053000 +0800" stop="20230908060000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
-    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908060000 +0800" stop="20230908063000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
-    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908063000 +0800" stop="20230908070000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
-    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908070000 +0800" stop="20230908073000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
-    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908073000 +0800" stop="20230908080000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP08 Rainbow Appears: Part 2 虹が出た（後編）, Niji ga deta (Kōhen))</title>
-    <desc lang="en">The typhoons that Nijikagachi created are about to wash away civilization. Gento decides to deploy Earth Garon's new Mod.2 unit into battle to defeat Nijikagachi. Teruaki, who had a deep respect for Yokomine, goes to persuade the mastermind of the plot.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908080000 +0800" stop="20230908083000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP09 Planet of Music オトノホシ, Otonohoshi)</title>
-    <desc lang="en">Anri receives a letter. It contained a concert ticket for a band led by Hoichi Tsukushi, someone that Anri had gotten to know through music. That's when the robot kaiju Garamon appears from a meteorite that came from outer space. Anri realizes that Garamon's behavior is controlled by a mysterious sound wave, and she has a hunch...</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908083000 +0800" stop="20230908090000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
-    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908090000 +0800" stop="20230908093000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP02 Kanata's Resolve 決意のカナタ, Ketsui no Kanata)</title>
-    <desc lang="en">Kanata enters the TPU training school, and begins marching drills with classmates Ichika and Ryumon. However, he and Ryumon start butting heads after a difference in opinion... Just then, Deathdrago appears before them! Will Kanata pull through this deadly situation? And can the three of them become members of GUTS-Select?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908093000 +0800" stop="20230908100000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP03 Move Out, GUTS-Select! 出動! GUTS-Select, Shutsudō! Gattsu Serekuto)</title>
-    <desc lang="en">A new aircraft GUTS Hawk deploys to GUTS-Select. To fully utilize its power, GUTS-Select need to coordinate with the Hawk's AI pilot, HANE2! But communicating with HANE2 proves a difficult task for Kanata and his team mates …. The sudden appearance of Gomora only adds to their difficulties. Don't give up, Decker! Use your new power to save the day!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908100000 +0800" stop="20230908103000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP04 The Destructive Monster Awakens 破壊獣覚醒, Hakaijū Kakusei)</title>
-    <desc lang="en">A mysterious giant capsule suddenly appears in a forgotten onsen (hot spring) town! Although, the mayor is taking pictures and looks oddly happy? Mons-Ahgar appears to throw GUTS-Select and the town further into chaos! Their hopes to save the day lie in promising new technology, and so Kanata and crew turn their efforts into combining the two GUTS aircrafts into one: the GUTS Gryphon!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908103000 +0800" stop="20230908110000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP05 Glutton of the Lake 湖の食いしん坊, Mizu'umi no Kuishinbō)</title>
-    <desc lang="en">Eleking suddenly appeared in the city! Ichika meets a mysterious girl named Yuko at the scene. Recently, Eleking has been stealing and eating electricity, but is there any connection between the two? In addition, there is something strange with Ichika's encounter with Yuko. Where will her straight forward feelings lead her?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908110000 +0800" stop="20230908113000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP06 Subterranean Monster Appears! And Appears! 地底怪獣現わる! 現わる!, Chitei Kaijū Arawaru! Arawaru!)</title>
-    <desc lang="en">A sazame bamboo flower, a harbinger of disaster blooms. A golden rainbow appears in the sky and a subterranean monster emerges. Ryumon is injured in this unprecedented situation. Kanata tries to cheer him up, but... What is Ryumon staring at?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908113000 +0800" stop="20230908120000 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP07 The Light of Hope from the Red Planet 希望の光、赤き星より, Kibō no Hikari, Akaki Hoshi Yori)</title>
-    <desc lang="en">A mysterious energy is detected underground. Could it be?! The power of darkness defeated ten years ago?! As Kanata and crew are stunned with shock, from the sky the legendary giant himself lands before GUTS-Select; Ultraman Trigger! Decker and Trigger, the two Giants of Light begin their fight against the power of darkness!!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908120000 +0800" stop="20230908141500 +0800" channel="AS400">
-    <title lang="en">Ultra Galaxy Fight (The Destined Crossroad)</title>
-    <desc lang="en">Ultra Galaxy Fight: The Destined Crossroad is the third installment of the Ultra Galaxy Fight series, continued from the previous series Ultra Galaxy Fight: The Absolute Conspiracy which had a shocking ending. Ultra Heroes vs Absolutian, the destined battle is about to reshape the galaxy!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://news.ultramanconnection.com/wp-content/uploads/2022/10/62d70a2898f17d6b9a8422a6_ULTRA-GALAXY-FIGHT_-THE-DESTINED-CROSSROAD-TO-PREMIERE-ON-ULTRAMAN-CONNECTION.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908141500 +0800" stop="20230908144500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep07)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908144500 +0800" stop="20230908151500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908151500 +0800" stop="20230908154500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908154500 +0800" stop="20230908161500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908161500 +0800" stop="20230908164500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep11)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908164500 +0800" stop="20230908171500 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
-    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908171500 +0800" stop="20230908174500 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
-    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908174500 +0800" stop="20230908181500 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
-    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908181500 +0800" stop="20230908184500 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP08 Rainbow Appears: Part 2 虹が出た（後編）, Niji ga deta (Kōhen))</title>
-    <desc lang="en">The typhoons that Nijikagachi created are about to wash away civilization. Gento decides to deploy Earth Garon's new Mod.2 unit into battle to defeat Nijikagachi. Teruaki, who had a deep respect for Yokomine, goes to persuade the mastermind of the plot.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908184500 +0800" stop="20230908191500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep08)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908191500 +0800" stop="20230908194500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep09)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908194500 +0800" stop="20230908201500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep10)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908201500 +0800" stop="20230908204500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep11)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908204500 +0800" stop="20230908220000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger Episode Z</title>
-    <desc lang="en">Two years have passed since the final battle and peace has been restored around the globe. However, things don't stay quiet for long when monsters once again begin to appear on Earth. At the same time, a series of mysterious break-ins take place at super ancient ruins around the world. Expert team GUTS-Select, led by a new captain, prepares the squad to launch an investigation. Little do they know, it is the beginning of a fierce battle with the fate of the universe in the balance. GUTS-Select and Ultraman Z rush into battle with our hero, Kengo Manaka, in the lead. A sinister figure emerges from the shadows: Evil Trigger, a sinister giant that inherits the shadow. To make everyone smile again, Ultraman Trigger and Haruki, human host of Ultraman Z, join forces with the new members of GUTS-Select as well as Ignis, human host of Trigger Dark, will take part in the ultimate battle between light and shadow!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KDONB_IVP_LAND_672x378_20221115_223556.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908220000 +0800" stop="20230908223000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP05 The Mountain Roars 山が吠える, Yama ga Hoeru)</title>
-    <desc lang="en">Practice runs for the new railgun, Mega Shot, is conducted in Anri's hometown. That's where Anri has an unexpected reunion with her childhood friend, Mizuho. Mizuho begs for them to cancel the practice runs. She insists that the removal of the shrine for the installation of the Mega Shot will awaken Dorgo, the local guardian god, but Anri finds it hard to believe. However, during the practice there's a big earth tremor...</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908223000 +0800" stop="20230908230000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP06 The Invading Aurora 侵略のオーロラ, Shinryaku no Ōrora)</title>
-    <desc lang="en">Yasunobu was rambling about his day to Cururu, a washer at the laundromat, when Alien Cannan Herbie suddenly appears before him. Herbie uses the Aurora Beam to manipulate machines and this was the reason for the increasing car and airplane accidents around the world. And that's not the end of it: it turns out that Earth Garon had also been shot with the Aurora Beam! What will Yasunobu do?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908230000 +0800" stop="20230908233000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP07 Rainbow Appears: Part 1 虹が出た（前編）, Niji ga Deta (Zenpen))</title>
-    <desc lang="en">Upside-down rainbows are being sighted throughout Japan. They are said to herald the onset of rain. Gento suspects that a kaiju may be behind this and decides to visit Professor Yokomine, a leading kaijuologist and also his mentor from school. Yokomine tells him about Nijikagachi, a god-like being that can at times bless the land with rain and at times summon utter destruction. That's when Gento receives news about an appearance of a giant kaiju!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908233000 +0800" stop="20230909000000 +0800" channel="AS400">
-    <title lang="en">Ultraman Blazar (EP08 Rainbow Appears: Part 2 虹が出た（後編）, Niji ga deta (Kōhen))</title>
-    <desc lang="en">The typhoons that Nijikagachi created are about to wash away civilization. Gento decides to deploy Earth Garon's new Mod.2 unit into battle to defeat Nijikagachi. Teruaki, who had a deep respect for Yokomine, goes to persuade the mastermind of the plot.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KIFXH_IVP_LAND_672x378_2023616_151457.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20230909000000 +0800" stop="20230909003000 +0800" channel="AS400">
     <title lang="en">Ultraman Decker (EP03 Move Out, GUTS-Select! 出動! GUTS-Select, Shutsudō! Gattsu Serekuto)</title>
     <desc lang="en">A new aircraft GUTS Hawk deploys to GUTS-Select. To fully utilize its power, GUTS-Select need to coordinate with the Hawk's AI pilot, HANE2! But communicating with HANE2 proves a difficult task for Kanata and his team mates …. The sudden appearance of Gomora only adds to their difficulties. Don't give up, Decker! Use your new power to save the day!</desc>
@@ -1595,24 +1208,6 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="20230908180000 +0800" stop="20230908192000 +0800" channel="AS825">
-    <title lang="en">ASTRO CRICKET PLUS</title>
-    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 & New Zealand tour of England 2023 ODi series.</desc>
-    <category lang="en">Cricket</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230908192000 +0800" stop="20230909004000 +0800" channel="AS825">
-    <title lang="en">(L) 1st ODi: ENG v NZ</title>
-    <desc lang="en">LIVE: New Zealand tour of England 2023 from England</desc>
-    <category lang="en">Cricket</category>
-    <icon src="https://crickettimes.com/wp-content/uploads/2023/09/England-vs-New-Zealand-Dream-11-Prediction-for-1st-ODI.webp" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20230909004000 +0800" stop="20230909060000 +0800" channel="AS825">
     <title lang="en">ASTRO CRICKET PLUS</title>
     <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
@@ -1650,6 +1245,186 @@
     </rating>
   </programme>
 <programme start="20230910023000 +0800" stop="20230910060000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230910060000 +0800" stop="20230910120000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230910120000 +0800" stop="20230910175000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230910175000 +0800" stop="20230911023000 +0800" channel="AS825">
+    <title lang="en">(L) 2nd ODi: ENG vs NZ</title>
+    <desc lang="en">LIVE: New Zealand tour of England 2023 from England</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://crickettimes.com/wp-content/uploads/2023/09/England-vs-New-Zealand-Dream-11-Prediction-for-1st-ODI.webp" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230911023000 +0800" stop="20230911060000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230911060000 +0800" stop="20230911120000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230911120000 +0800" stop="20230911180000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230911180000 +0800" stop="20230912000000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230912000000 +0800" stop="20230912060000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230912060000 +0800" stop="20230912120000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230912120000 +0800" stop="20230912192000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230912192000 +0800" stop="20230913040000 +0800" channel="AS825">
+    <title lang="en">(L) 2nd ODi: SL vs ENG</title>
+    <desc lang="en">LIVE: Sri Lanka Women tour of England 2023 from England</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHTZn4KIDQDXbQVSj-lBJdzXFTZTIPVCjEoFI9CtiSWZFoe5RNIEHjoBEtGDgcmbOwrXJHiM0M6Yi3gmnUeE9OAvIgYdYN8CUtQ-hOTfRewi0P-CF0pGuP_F3zbCBLmdkn2ooOlH55vtA9gH-MyLnbtYxyN8EczdQYzd2LCp1AUIOrnKVnNj5_mael/s1600/Sri" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230913040000 +0800" stop="20230913060000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230913060000 +0800" stop="20230913120000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230913120000 +0800" stop="20230913172000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230913172000 +0800" stop="20230914040000 +0800" channel="AS825">
+    <title lang="en">(L) 3rd ODi: ENG vs NZ</title>
+    <desc lang="en">LIVE: New Zealand tour of England 2023 from England.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/england-vs-new-zealand--1st-odi-live-score-and-updates-from-cardiff-courtesy-ap-081453930-16x9.jpg?VersionId=of6mqKNS8N1zYuphglPoRWM8Xm2DaPbs" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230914040000 +0800" stop="20230914060000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230914060000 +0800" stop="20230914120000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230914120000 +0800" stop="20230914192000 +0800" channel="AS825">
+    <title lang="en">ASTRO CRICKET PLUS</title>
+    <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230914192000 +0800" stop="20230915040000 +0800" channel="AS825">
+    <title lang="en">(L) 3rd ODi: SL vs ENG</title>
+    <desc lang="en">LIVE: Sri Lanka women tour of England 2023 from England</desc>
+    <category lang="en">Cricket</category>
+    <icon src="https://adorecricket.com/wp-content/uploads/Eng_v_Sri_logo.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20230915040000 +0800" stop="20230915060000 +0800" channel="AS825">
     <title lang="en">ASTRO CRICKET PLUS</title>
     <desc lang="en">Catch the Sri Lanka Women tour of England 2023 and New Zealand tour of England 2023 ODi series.</desc>
     <category lang="en">Cricket</category>
