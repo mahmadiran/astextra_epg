@@ -1634,7 +1634,70 @@ Kengo and the team do all they can to survive this crisis!</desc>
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092623000000 +0800" stop="2023092800000000 +0800" channel="AS790">
+<programme start="2023092623000000 +0800" stop="2023092708480000 +0800" channel="AS790">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092708480000 +0800" stop="2023092711500000 +0800" channel="AS790">
+    <title lang="en">(L) Preliminary Softball Hongkong vs Singapore</title>
+    <desc lang="en">Saksikan Siaran Ulangan Preliminary Softball Hongkong vs Singapore </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092711500000 +0800" stop="2023092713310000 +0800" channel="AS790">
+    <title lang="en">(L) Shooting Women Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Shooting Women Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092713310000 +0800" stop="2023092714300000 +0800" channel="AS790">
+    <title lang="en">(L) 3X3 Baseball Men</title>
+    <desc lang="en">Saksikan Siaran Langsung 3X3 Baseball Men  </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092714300000 +0800" stop="2023092716350000 +0800" channel="AS790">
+    <title lang="en">(L) Wushu Men and Women Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Wushu Men and Women Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092716350000 +0800" stop="2023092718460000 +0800" channel="AS790">
+    <title lang="en">(L) Medal Event Judo Mixed Team Finals</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Judo Mixed Team Finals</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092718460000 +0800" stop="2023092722300000 +0800" channel="AS790">
+    <title lang="en">(L) Medal Event Esports Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Esports Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092722300000 +0800" stop="2023092800000000 +0800" channel="AS790">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -1706,7 +1769,70 @@ Kengo and the team do all they can to survive this crisis!</desc>
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092622300000 +0800" stop="2023092800000000 +0800" channel="RTMAG1">
+<programme start="2023092622300000 +0800" stop="2023092709550000 +0800" channel="RTMAG1">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092709550000 +0800" stop="2023092712300000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Swimming Men and Women</title>
+    <desc lang="en">Saksikan Siaran Langsung Swimming Women and Men </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092712300000 +0800" stop="2023092714300000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Squash Men Malaysia vs Japan</title>
+    <desc lang="en">Saksikan Siaran Langsung Squash Men Malaysia vs Japan </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092714300000 +0800" stop="2023092714550000 +0800" channel="RTMAG1">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092714550000 +0800" stop="2023092717350000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Artistic Gymnastics Women Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Artistic Gymnastics Women Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092717350000 +0800" stop="2023092719250000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Football Women</title>
+    <desc lang="en">Saksikan Siaran Langsung Football Women </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092719250000 +0800" stop="2023092721450000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Swimming Men and Women Finals</title>
+    <desc lang="en">Saksikan Siaran Langsung Swimming Men and Women Finals</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092721450000 +0800" stop="2023092800000000 +0800" channel="RTMAG1">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -1769,7 +1895,70 @@ Kengo and the team do all they can to survive this crisis!</desc>
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092621450000 +0800" stop="2023092800000000 +0800" channel="RTMAG2">
+<programme start="2023092621450000 +0800" stop="2023092710050000 +0800" channel="RTMAG2">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092710050000 +0800" stop="2023092714300000 +0800" channel="RTMAG2">
+    <title lang="en">(L)  Preliminary Hockey Women</title>
+    <desc lang="en">Saksikan Siaran Langsung Preliminary Hockey Women </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092714300000 +0800" stop="2023092714550000 +0800" channel="RTMAG2">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092714550000 +0800" stop="2023092718000000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Cycling Track Men and Women</title>
+    <desc lang="en">Saksikan Siaran Langsung Cycling Track Men and Women </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092718000000 +0800" stop="2023092718550000 +0800" channel="RTMAG2">
+    <title lang="en">Siaran Ulangan : Preliminary Basketball Women</title>
+    <desc lang="en">Saksikan Siaran Ulangan Preliminary Basketball Women</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092718550000 +0800" stop="2023092722150000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Preliminaries Boxing Men and Women</title>
+    <desc lang="en">Saksikan Siaran Langsung Preliminaries Boxing Men and Women </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092722150000 +0800" stop="2023092723000000 +0800" channel="RTMAG2">
+    <title lang="en">Siaran Ulangan : Preliminary 3X3 Basketball Women Mongolia vs Jordan</title>
+    <desc lang="en">Saksikan Siaran Ulangan : Preliminary 3X3 Basketball Women Mongolia vs Jordan</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092723000000 +0800" stop="2023092800000000 +0800" channel="RTMAG2">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -1859,7 +2048,70 @@ Kengo and the team do all they can to survive this crisis!</desc>
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092623000000 +0800" stop="2023092800000000 +0800" channel="RTMAG3">
+<programme start="2023092623000000 +0800" stop="2023092708450000 +0800" channel="RTMAG3">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092708450000 +0800" stop="2023092712450000 +0800" channel="RTMAG3">
+    <title lang="en">Siaran langsung : Sepaktakraw Men Thailand vs Korea Semifinal</title>
+    <desc lang="en">Saksikan siaran langsung : Sepaktakraw Men Thailand vs Korea Semifinal</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092712450000 +0800" stop="2023092714000000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Squash Woman Hong Kong vs Korea</title>
+    <desc lang="en">Siaran Langsung : Squash Woman Hong Kong vs Korea </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092714000000 +0800" stop="2023092718300000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Taekwondo Mixed Final</title>
+    <desc lang="en">Saksikan siaran langsung : Taekwondo Mixed Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092718300000 +0800" stop="2023092719300000 +0800" channel="RTMAG3">
+    <title lang="en">Siaran Ulangan : Shooting Woman's Final</title>
+    <desc lang="en">Saksikan siaran Ulangan : Shooting Woman's Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092719300000 +0800" stop="2023092722000000 +0800" channel="RTMAG3">
+    <title lang="en">Siaran langsung : Football Woman Thailand vs TPE Chinese Taipei</title>
+    <desc lang="en">Saksikan siaran langsung : Football Woman Thailand vs TPE Chinese Taipei</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092722000000 +0800" stop="2023092723590000 +0800" channel="RTMAG3">
+    <title lang="en">Siaran ulangan : Football Male China vs Qatar</title>
+    <desc lang="en">Saksikan siaran ulangan : Football Male China vs Qatar </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092723590000 +0800" stop="2023092800000000 +0800" channel="RTMAG3">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -1940,7 +2192,61 @@ Kengo and the team do all they can to survive this crisis!</desc>
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092623450000 +0800" stop="2023092800000000 +0800" channel="RTMAG4">
+<programme start="2023092623450000 +0800" stop="2023092709550000 +0800" channel="RTMAG4">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092709550000 +0800" stop="2023092713550000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Skateboard Women's Street Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Skateboard Women's Street Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092713550000 +0800" stop="2023092715300000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Skateboarding Men's Street Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Skateboarding Men's Street Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092715300000 +0800" stop="2023092715550000 +0800" channel="RTMAG4">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092715550000 +0800" stop="2023092720250000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Table Tennis Men and Women Doubles Round</title>
+    <desc lang="en">Saksikan Siaran Langsung Table Tennis Men and Women Doubles Round</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092720250000 +0800" stop="2023092722300000 +0800" channel="RTMAG4">
+    <title lang="en">Siaran Ulangan : Hockey Women China vs Kazakhstan</title>
+    <desc lang="en">Saksikan Siaran Ulangan Hockey Women China vs Kazakhstan </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092722300000 +0800" stop="2023092800000000 +0800" channel="RTMAG4">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -1994,9 +2300,54 @@ Kengo and the team do all they can to survive this crisis!</desc>
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092621450000 +0800" stop="2023092800000000 +0800" channel="RTMAG5">
+<programme start="2023092621450000 +0800" stop="2023092710000000 +0800" channel="RTMAG5">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092710000000 +0800" stop="2023092714000000 +0800" channel="RTMAG5">
+    <title lang="en">Siaran langsung : Table Tennis Mixed</title>
+    <desc lang="en">Saksikan siaran langsung : Table Tennis Mixed </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092714000000 +0800" stop="2023092717000000 +0800" channel="RTMAG5">
+    <title lang="en">siaran langsung : Beach Volleyball Woman Final</title>
+    <desc lang="en">Saksikan siaran langsung : Beach Ball Woman Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092717000000 +0800" stop="2023092718000000 +0800" channel="RTMAG5">
+    <title lang="en">Siaran Ulangan : Fencing Woman Semifinal</title>
+    <desc lang="en">Saksikan siaran ulangan : Fencing Woman Semifinal</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092718000000 +0800" stop="2023092721000000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Fencing Men Final</title>
+    <desc lang="en">Saksikan siaran langsung : Fencing Men Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092721000000 +0800" stop="2023092800000000 +0800" channel="RTMAG5">
+    <title lang="en">Siaran Ulangan : Softball Preliminary</title>
+    <desc lang="en">Saksikan siaran ulangan : Softball Preliminary</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
