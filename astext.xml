@@ -57,411 +57,6 @@
 	<display-name lang="en">AS</display-name>
     <url>http://www.astro.com.my</url>
 	</channel>
-<programme start="20230930000000 +0800" stop="20230930003000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP01. Chant My Name! ご唱和ください、我の名を!, Goshōwa Kudasai, Ware no Na wo!)</title>
-    <desc lang="en">Haruki Natsukawa is a pilot for Global Allied Forces Japan’s robot unit, STORAGE. As he fights day and night to keep the peace on Earth, a new Ultra Hero alights before him! That hero’s name is Ultraman Z. He’s a hot-blooded hero who introduces himself as the disciple of Ultraman Zero. In the face of the Ferocious Space Shark Genegarg’s onslaught, the two imperiled heroes become one, and the story of Ultraman Z begins!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930003000 +0800" stop="20230930010000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP03. Live Coverage! The Monster Transport Operation 生中継!怪獣輸送大作戦, Nama Chūkei! Kaijū Yusō Dai Sakusen)</title>
-    <desc lang="en">STORAGE was ordered to transport the ancient monster, Gomora to an uninhabited island after a construction company discover it in a mountain. Haruki heads out in Sevenger, but Gomora suddenly awakens! Haruki has no choice but to stop its rampage!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930010000 +0800" stop="20230930031000 +0800" channel="AS400">
-    <title lang="en">Ultra Galaxy Fight (The Destined Crossroad)</title>
-    <desc lang="en">Ultra Galaxy Fight: The Destined Crossroad is the third installment of the Ultra Galaxy Fight series, continued from the previous series Ultra Galaxy Fight: The Absolute Conspiracy which had a shocking ending. Ultra Heroes vs Absolutian, the destined battle is about to reshape the galaxy!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://news.ultramanconnection.com/wp-content/uploads/2022/10/62d70a2898f17d6b9a8422a6_ULTRA-GALAXY-FIGHT_-THE-DESTINED-CROSSROAD-TO-PREMIERE-ON-ULTRAMAN-CONNECTION.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930031000 +0800" stop="20230930033500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep23)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930033500 +0800" stop="20230930040000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep24)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930040000 +0800" stop="20230930043000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep25)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930043000 +0800" stop="20230930050000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep01)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930050000 +0800" stop="20230930053000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger: New Generation Tiga (Ep02)</title>
-    <desc lang="en">Today, GUTS-Select team was formed while Martian settlement Kengo Manaka lived his life as a botanist. Kengo has a fated encounter the giant of light from the past, and his name is Ultraman Trigger.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://static.wikia.nocookie.net/ultra/images/b/bb/TriggerTitleCard.jpg/revision/latest?cb=20210617110145" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930053000 +0800" stop="20230930060000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP05. First Juggling, ファースト・ジャグリング, Fāsuto Jaguringu)</title>
-    <desc lang="en">A mysterious stone tool is found in Alaska. The Freezing Monster, Peguila appeared at a lab where this tool was under research. Yoko attempted to dispatch with Windom, but the mecha was frozen solid! Will this new tool help Ultraman Z and STORAGE in this battle?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930060000 +0800" stop="20230930063000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP06. The Man Returns! 帰ってきた男!, Kaettekita Otoko!)</title>
-    <desc lang="en">A certain man has returned to Earth. His name is Riku Asakura, and 's the young man who transforms into Ultraman Geed. However, 's not the only one who has come to Earth. The Last Judgmenter Gillvalis, who once tormented Geed, has returned to Earth once again! don't look away as our two brave heroes face down an unprecedented crisis!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930063000 +0800" stop="20230930070000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP07. His majesty's Medal 陛下のメダル, Heika no Medaru)</title>
-    <desc lang="en">Riku Asakura was kidnapped by someone! Riku's hidden power is being used to create something evil...! And the enemy's powerful Belial Fusion Monster appears! As peril befalls out heroes, Ultraman Z's master, Ultraman Zero appears! Shatter the enemy's evil ambitions, Z, Geed, and Zero!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930070000 +0800" stop="20230930073000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP08. The Mystic Power 神秘の力, Shinpi no Chikara)</title>
-    <desc lang="en">One day mysterious beautiful sisters arrived from the far corners of the universe! The mysterious monster cells in their possession have created a Combined Monster known as Tri-King! Furthermore, Kaburagi strengthens this formation further by causing it to evolve into a Super Combined Monster known as Five King! There is no choice but to make use of a new kind of power in order to face this indomitable threat! That's right, harnessing the powers of a mysterious transforming light!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930073000 +0800" stop="20230930080000 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP09. The Unidentified Object Convoy Order 未確認物質護送指令, Mi Kakunin Busshitsu Gosō Shirei)</title>
-    <desc lang="en">STORAGE members are assigned to escort Ultra Medals to a research institute under the GAF's orders. But aliens are also aiming for the Ultra Medals, which are said to be the treasure of the universe! How can STORAGE deal the enemy space robot King Joe and how will Ultraman Z face it?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930083000 +0800" stop="20230930090000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP08)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Light (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 光の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Hikari no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930090000 +0800" stop="20230930093000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP09)</title>
-    <desc lang="en">Ultraman Saga - Chapter 1: Silent Earth (ウルトラマンサーガ 「第1章 沈黙の地球」, Urutoraman Sāga - Dai Ichi Shō: Chinmoku no Chikyū)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930093000 +0800" stop="20230930100000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP10)</title>
-    <desc lang="en">Ultraman Saga - Chapter 2: Zero's Hardship (ウルトラマンサーガ 「第2章 ゼロの苦難」, Urutoraman Sāga - Dai Ni Shō: Zero no Kunan)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930100000 +0800" stop="20230930103000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP11)</title>
-    <desc lang="en">Ultraman Saga - Chapter 3: The Cocoon of Fear (ウルトラマンサーガ 「第3章 恐怖の繭」, Urutoraman Sāga - Dai San Shō: Kyoufu no Mayu)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930103000 +0800" stop="20230930110000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP12)</title>
-    <desc lang="en">Ultraman Saga - Chapter 4: Revival of The Hero (ウルトラマンサーガ 「第4章 復活の英雄」, Urutoraman Sāga - Dai Yon Shō: Fukkatsu no Eiyū)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930110000 +0800" stop="20230930113000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP13)</title>
-    <desc lang="en">Ultraman Saga - Chapter 5: The Real Fight (ウルトラマンサーガ 「第5章 本当の戦い」, Urutoraman Sāga - Dai Go Shō: Hontō no Tatakai)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930113000 +0800" stop="20230930120000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP14)</title>
-    <desc lang="en">Ultraman Mebius Battle File (ウルトラマンメビウスバトルファイル, Urutoraman Mebiusu Batoru Fairu): The only episode to not be largely re-used from the two Ultraman Retsuden seasons, this episode showcases Ultraman Mebius Gaiden: Ghost Rebirth. In newly-recorded footage, Rei makes a brief appearance at the end.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930120000 +0800" stop="20230930131500 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger Episode Z</title>
-    <desc lang="en">Two years have passed since the final battle and peace has been restored around the globe. However, things don't stay quiet for long when monsters once again begin to appear on Earth. At the same time, a series of mysterious break-ins take place at super ancient ruins around the world. Expert team GUTS-Select, led by a new captain, prepares the squad to launch an investigation. Little do they know, it is the beginning of a fierce battle with the fate of the universe in the balance. GUTS-Select and Ultraman Z rush into battle with our hero, Kengo Manaka, in the lead. A sinister figure emerges from the shadows: Evil Trigger, a sinister giant that inherits the shadow. To make everyone smile again, Ultraman Trigger and Haruki, human host of Ultraman Z, join forces with the new members of GUTS-Select as well as Ignis, human host of Trigger Dark, will take part in the ultimate battle between light and shadow!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KDONB_IVP_LAND_672x378_20221115_223556.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930131500 +0800" stop="20230930134500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP04 The Destructive Monster Awakens 破壊獣覚醒, Hakaijū Kakusei)</title>
-    <desc lang="en">A mysterious giant capsule suddenly appears in a forgotten onsen (hot spring) town! Although, the mayor is taking pictures and looks oddly happy? Mons-Ahgar appears to throw GUTS-Select and the town further into chaos! Their hopes to save the day lie in promising new technology, and so Kanata and crew turn their efforts into combining the two GUTS aircrafts into one: the GUTS Gryphon!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930134500 +0800" stop="20230930141500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP05 Glutton of the Lake 湖の食いしん坊, Mizu'umi no Kuishinbō)</title>
-    <desc lang="en">Eleking suddenly appeared in the city! Ichika meets a mysterious girl named Yuko at the scene. Recently, Eleking has been stealing and eating electricity, but is there any connection between the two? In addition, there is something strange with Ichika's encounter with Yuko. Where will her straight forward feelings lead her?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930141500 +0800" stop="20230930144500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP06 Subterranean Monster Appears! And Appears! 地底怪獣現わる! 現わる!, Chitei Kaijū Arawaru! Arawaru!)</title>
-    <desc lang="en">A sazame bamboo flower, a harbinger of disaster blooms. A golden rainbow appears in the sky and a subterranean monster emerges. Ryumon is injured in this unprecedented situation. Kanata tries to cheer him up, but... What is Ryumon staring at?</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930144500 +0800" stop="20230930151500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP07 The Light of Hope from the Red Planet 希望の光、赤き星より, Kibō no Hikari, Akaki Hoshi Yori)</title>
-    <desc lang="en">A mysterious energy is detected underground. Could it be?! The power of darkness defeated ten years ago?! As Kanata and crew are stunned with shock, from the sky the legendary giant himself lands before GUTS-Select; Ultraman Trigger! Decker and Trigger, the two Giants of Light begin their fight against the power of darkness!!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930151500 +0800" stop="20230930154500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP08 Light and Darkness, Again 光と闇, ふたたび, Hikari to Yami, Futatabi)</title>
-    <desc lang="en">A mysterious giant plant appears and the pollen it spreads lures people into a world of dreams! But it looks just like R'lyeh, the plant Kengo Manaka grew to bring smiles to the people of Mars...?! A familiar face shows up as Kengo, Kanata, and crew try to take control of the situation, and the GUTS-Select joint extermination operations begins!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930154500 +0800" stop="20230930161500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP09 Standing Tall for Someone Special 誰がための勇姿, Taga Tame no Yūshi)</title>
-    <desc lang="en">Kanata meets a young girl, Mika. She says she wants Kanata/Ultraman Decker to fight her father?! Her father is the Space Martial Arts Champion, Grace... Will the duel between Decker and Grace take place? And how will it end?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930161500 +0800" stop="20230930164500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP10 Man and Monster 人と怪獣, Hito to Kaijū)</title>
-    <desc lang="en">The mysterious monster Neomegas appears suddenly in town, defeats several other monsters, and leaves. Vice-Captain Kaizaki tries to find out what's really going out, when she remembers the words of her mentor. The terrifying true meaning behind those words reveals itself before Kanata, the GUTS-Select team, and Ultraman Decker!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930164500 +0800" stop="20230930171500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP11 Machine God Deployed 機神出撃, Kishin Shutsugeki)</title>
-    <desc lang="en">Finally! Finally!! GUTS-Select are given with new equipment in the form of a robot! It's name is the "Terraphaser"!! Everyone is excited to meet the robot they'd been waiting for, but for some reason monsters appear every time they try to test a boot-up sequence!! As Ultraman Decker holds off the monsters, can the team safely start-up the Terraphaser?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930171500 +0800" stop="20230930174500 +0800" channel="AS400">
-    <title lang="en">Ultraman Decker (EP12 Neomegas Strikes Back ネオメガスの逆襲, Neomegasu no Gyakushū)</title>
-    <desc lang="en">Sphere-Neomegas is born from the remaining Neomegas cells. Ultraman Decker and GUTS-Select are forced to fight against its overwhelming power. Kanata and his team are devastated by their inability to accomplish anything, but they encourage each other and begin a counterattack operation, mobilizing all their strength with Terraphaser at the center!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://pbs.twimg.com/media/FhAMvQXaUAAa5tf?format=jpg&name=large" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930174500 +0800" stop="20230930181500 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP05. First Juggling, ファースト・ジャグリング, Fāsuto Jaguringu)</title>
-    <desc lang="en">A mysterious stone tool is found in Alaska. The Freezing Monster, Peguila appeared at a lab where this tool was under research. Yoko attempted to dispatch with Windom, but the mecha was frozen solid! Will this new tool help Ultraman Z and STORAGE in this battle?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930181500 +0800" stop="20230930184500 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP06. The Man Returns! 帰ってきた男!, Kaettekita Otoko!)</title>
-    <desc lang="en">A certain man has returned to Earth. His name is Riku Asakura, and 's the young man who transforms into Ultraman Geed. However, 's not the only one who has come to Earth. The Last Judgmenter Gillvalis, who once tormented Geed, has returned to Earth once again! don't look away as our two brave heroes face down an unprecedented crisis!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930184500 +0800" stop="20230930191500 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP07. His majesty's Medal 陛下のメダル, Heika no Medaru)</title>
-    <desc lang="en">Riku Asakura was kidnapped by someone! Riku's hidden power is being used to create something evil...! And the enemy's powerful Belial Fusion Monster appears! As peril befalls out heroes, Ultraman Z's master, Ultraman Zero appears! Shatter the enemy's evil ambitions, Z, Geed, and Zero!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930191500 +0800" stop="20230930194500 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP08. The Mystic Power 神秘の力, Shinpi no Chikara)</title>
-    <desc lang="en">One day mysterious beautiful sisters arrived from the far corners of the universe! The mysterious monster cells in their possession have created a Combined Monster known as Tri-King! Furthermore, Kaburagi strengthens this formation further by causing it to evolve into a Super Combined Monster known as Five King! There is no choice but to make use of a new kind of power in order to face this indomitable threat! That's right, harnessing the powers of a mysterious transforming light!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930194500 +0800" stop="20230930201500 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP09. The Unidentified Object Convoy Order 未確認物質護送指令, Mi Kakunin Busshitsu Gosō Shirei)</title>
-    <desc lang="en">STORAGE members are assigned to escort Ultra Medals to a research institute under the GAF's orders. But aliens are also aiming for the Ultra Medals, which are said to be the treasure of the universe! How can STORAGE deal the enemy space robot King Joe and how will Ultraman Z face it?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930201500 +0800" stop="20230930204500 +0800" channel="AS400">
-    <title lang="en">Ultraman Z (EP05. First Juggling, ファースト・ジャグリング, Fāsuto Jaguringu)</title>
-    <desc lang="en">A mysterious stone tool is found in Alaska. The Freezing Monster, Peguila appeared at a lab where this tool was under research. Yoko attempted to dispatch with Windom, but the mecha was frozen solid! Will this new tool help Ultraman Z and STORAGE in this battle?!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E96_IVP_LAND_672x378_2022126_171625.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930204500 +0800" stop="20230930220000 +0800" channel="AS400">
-    <title lang="en">Ultraman Trigger Episode Z</title>
-    <desc lang="en">Two years have passed since the final battle and peace has been restored around the globe. However, things don't stay quiet for long when monsters once again begin to appear on Earth. At the same time, a series of mysterious break-ins take place at super ancient ruins around the world. Expert team GUTS-Select, led by a new captain, prepares the squad to launch an investigation. Little do they know, it is the beginning of a fierce battle with the fate of the universe in the balance. GUTS-Select and Ultraman Z rush into battle with our hero, Kengo Manaka, in the lead. A sinister figure emerges from the shadows: Evil Trigger, a sinister giant that inherits the shadow. To make everyone smile again, Ultraman Trigger and Haruki, human host of Ultraman Z, join forces with the new members of GUTS-Select as well as Ignis, human host of Trigger Dark, will take part in the ultimate battle between light and shadow!</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KDONB_IVP_LAND_672x378_20221115_223556.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930220000 +0800" stop="20230930223000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP08)</title>
-    <desc lang="en">Ultraman Zero THE MOVIE: Super Deciding Fight! The Belial Galactic Empire: Chapter of Light (ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国 光の章, Urutoraman Zero THE MOVIE: Chōkessen! Beriaru Ginga Teikoku Hikari no Shō)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930223000 +0800" stop="20230930230000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP09)</title>
-    <desc lang="en">Ultraman Saga - Chapter 1: Silent Earth (ウルトラマンサーガ 「第1章 沈黙の地球」, Urutoraman Sāga - Dai Ichi Shō: Chinmoku no Chikyū)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930230000 +0800" stop="20230930233000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP10)</title>
-    <desc lang="en">Ultraman Saga - Chapter 2: Zero's Hardship (ウルトラマンサーガ 「第2章 ゼロの苦難」, Urutoraman Sāga - Dai Ni Shō: Zero no Kunan)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930233000 +0800" stop="20231001000000 +0800" channel="AS400">
-    <title lang="en">Ultraman Zero: The Chronicle (EP11)</title>
-    <desc lang="en">Ultraman Saga - Chapter 3: The Cocoon of Fear (ウルトラマンサーガ 「第3章 恐怖の繭」, Urutoraman Sāga - Dai San Shō: Kyoufu no Mayu)</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_51E95_IVP_LAND_672x378_2022126_17255.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231001000000 +0800" stop="20231001060000 +0800" channel="AS400">
-    <title lang="en">ULTRAMAN CHANNEL</title>
-    <desc lang="en">Ultraman Channel will cease transmission on 1st of October at 00:00 hours. Astro customers can look forward to watching the Ultraman series and movies on Astro Ceria and On-Demand.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://i.imgur.com/Oo3Bl2W.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231001060000 +0800" stop="20231001120000 +0800" channel="AS400">
-    <title lang="en">ULTRAMAN CHANNEL</title>
-    <desc lang="en">Ultraman Channel will cease transmission on 1st of October at 00:00 hours. Astro customers can look forward to watching the Ultraman series and movies on Astro Ceria and On-Demand.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://i.imgur.com/Oo3Bl2W.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231001120000 +0800" stop="20231001180000 +0800" channel="AS400">
-    <title lang="en">ULTRAMAN CHANNEL</title>
-    <desc lang="en">Ultraman Channel will cease transmission on 1st of October at 00:00 hours. Astro customers can look forward to watching the Ultraman series and movies on Astro Ceria and On-Demand.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://i.imgur.com/Oo3Bl2W.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231001180000 +0800" stop="20231002000000 +0800" channel="AS400">
-    <title lang="en">ULTRAMAN CHANNEL</title>
-    <desc lang="en">Ultraman Channel will cease transmission on 1st of October at 00:00 hours. Astro customers can look forward to watching the Ultraman series and movies on Astro Ceria and On-Demand.</desc>
-    <category lang="en">Ultraman</category>
-    <icon src="https://i.imgur.com/Oo3Bl2W.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20231002000000 +0800" stop="20231002060000 +0800" channel="AS400">
     <title lang="en">ULTRAMAN CHANNEL</title>
     <desc lang="en">Ultraman Channel will cease transmission on 1st of October at 00:00 hours. Astro customers can look forward to watching the Ultraman series and movies on Astro Ceria and On-Demand.</desc>
@@ -498,187 +93,7 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="20230930060000 +0800" stop="20230930120000 +0800" channel="AS795">
-    <title lang="en">Astro SuperSport - Newcastle United vs Burnley</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: Newcastle United vs Burnley at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930120000 +0800" stop="20230930180000 +0800" channel="AS795">
-    <title lang="en">Astro SuperSport - Newcastle United vs Burnley</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: Newcastle United vs Burnley at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930180000 +0800" stop="20230930215000 +0800" channel="AS795">
-    <title lang="en">Astro SuperSport - Newcastle United vs Burnley</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: Newcastle United vs Burnley at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930215000 +0800" stop="20231001001500 +0800" channel="AS795">
-    <title lang="en">(L) PL: Newcastle United vs Burnley</title>
-    <desc lang="en">LIVE: Premier League 2023/24: Match Week 7: Newcastle United vs Burnley from St. James Park, Newcastle upon Tyne, England.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0EAD/production/_131275730_newcastlevsburnley.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231001001500 +0800" stop="20231001060000 +0800" channel="AS795">
-    <title lang="en">Astro SuperSport - Newcastle United vs Burnley</title>
-    <desc lang="en">Thank you for watching this match</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930060000 +0800" stop="20230930120000 +0800" channel="AS796">
-    <title lang="en">Astro SuperSport - West Ham vs Sheffield United</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: West Ham vs Sheffield United at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930120000 +0800" stop="20230930180000 +0800" channel="AS796">
-    <title lang="en">Astro SuperSport - West Ham vs Sheffield United</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: West Ham vs Sheffield United at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930180000 +0800" stop="20230930215000 +0800" channel="AS796">
-    <title lang="en">Astro SuperSport - West Ham vs Sheffield United</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: West Ham vs Sheffield United at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930215000 +0800" stop="20231001001500 +0800" channel="AS796">
-    <title lang="en">(L) PL: West Ham Utd vs Sheffield Utd</title>
-    <desc lang="en">LIVE: Premier League 2023/24: Match Week 7: West Ham United vs Sheffield United from London Stadium, London, England.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://image.discovery.indazn.com/ca/v2/ca/image?id=193694277834_image-header_pRow_1695647630000" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231001001500 +0800" stop="20231001060000 +0800" channel="AS796">
-    <title lang="en">Astro SuperSport - West Ham vs Sheffield United</title>
-    <desc lang="en">Thank you for watching this match.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930060000 +0800" stop="20230930120000 +0800" channel="AS797">
-    <title lang="en">Astro SuperSport - Everton vs Luton Town</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: Everton vs Luton Town at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930120000 +0800" stop="20230930180000 +0800" channel="AS797">
-    <title lang="en">Astro SuperSport - Everton vs Luton Town</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: Everton vs Luton Town at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930180000 +0800" stop="20230930215000 +0800" channel="AS797">
-    <title lang="en">Astro SuperSport - Everton vs Luton Town</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 7: Everton vs Luton Town at 2200hrs.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20230930215000 +0800" stop="20231001001500 +0800" channel="AS797">
-    <title lang="en">(L) PL: Everton vs Luton Town</title>
-    <desc lang="en">LIVE: Premier League 2023/24: Match Week 7: Everton vs Luton Town from Goodison Park, Liverpool, England.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/9C8D/production/_131277004_evertonvslutontown.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231001001500 +0800" stop="20231001060000 +0800" channel="AS797">
-    <title lang="en">Astro SuperSport - Everton vs Luton Town</title>
-    <desc lang="en">Thank you for watching this match</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092900000000 +0800" stop="2023092908520000 +0800" channel="AS790">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092908520000 +0800" stop="2023092911250000 +0800" channel="AS790">
-    <title lang="en">(L) Table Tennis Women Singapore vs Korea</title>
-    <desc lang="en">Saksikan Siaran Langsung Table Tennis Women Singapore vs Korea </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092911250000 +0800" stop="2023092913500000 +0800" channel="AS790">
-    <title lang="en">(L) Medal Event Air Pistol Women 's Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Air Pistol Women 's Final</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092913500000 +0800" stop="2023092915550000 +0800" channel="AS790">
-    <title lang="en">(L) Medal Event Shooting Men's Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Shooting Men's Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092915550000 +0800" stop="2023092920450000 +0800" channel="AS790">
-    <title lang="en">(L) Table Tennis Women's Double Round and Men's Singles Round</title>
-    <desc lang="en">Saksikan Siaran Langsung Table Tennis Women's Double Round and Men's Singles Round </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092920450000 +0800" stop="2023093000000000 +0800" channel="AS790">
+<programme start="2023092920450000 +0800" stop="2023100209550000 +0800" channel="AS790">
     <title lang="en">(L) Esports League of Legends Final</title>
     <desc lang="en">Saksikan Siaran Langsung Esports League of Legends Final </desc>
     <category lang="en">SPORTS</category>
@@ -687,8 +102,17 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092821450000 +0800" stop="2023092909550000 +0800" channel="RTMAG1">
-    <title lang="en">Promo Sukan Asia</title>
+<programme start="2023100209550000 +0800" stop="2023100218150000 +0800" channel="AS790">
+    <title lang="en">(L) Badminton Men's and Women's Singles and Doubles Round</title>
+    <desc lang="en"> Saksikan Siaran Langsung Badminton Men's and Women's Singles and Doubles Round</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100218150000 +0800" stop="2023100218460000 +0800" channel="AS790">
+    <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
@@ -696,79 +120,16 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092909550000 +0800" stop="2023092912050000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Elimination Swimming Women and Men</title>
-    <desc lang="en">Saksikan Siaran Langsung Elimination Swimming Women and Men</desc>
+<programme start="2023100218460000 +0800" stop="2023100300000000 +0800" channel="AS790">
+    <title lang="en">(L) Medal Event Esports DOTA 2 Finals</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Esports DOTA 2 Finals </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092912050000 +0800" stop="2023092914250000 +0800" channel="RTMAG1">
-    <title lang="en">(L)Table Tennis Women's Singles Round and Men's Doubles Round</title>
-    <desc lang="en">Saksikan Siaran Langsung Table Tennis Women's Singles Round and Men's Doubles Round</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092914250000 +0800" stop="2023092918050000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Artistic Gymnastics Men and Women Apparatus Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Artistic Gymnastics Men and Women Apparatus Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092918050000 +0800" stop="2023092919250000 +0800" channel="RTMAG1">
-    <title lang="en">Siaran Ulangan 3X3 Basketball</title>
-    <desc lang="en">Saksikan Siaran Ulangan 3X3 Basketball  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092919250000 +0800" stop="2023092921450000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Swimming Women and Men Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Swimming Women and Men Final</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092921450000 +0800" stop="2023093010000000 +0800" channel="RTMAG1">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023093010000000 +0800" stop="2023093015300000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Tennis Men, Woman and Mixed Final</title>
-    <desc lang="en">Saksikan siaran langsung : Tennis Men, Woman and Mixed Final\n\nWoman Doubles Taipei vs Taipei\nMen Singles China vs Japan\nMixed Doubles Taipei vs India</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023093015300000 +0800" stop="2023093017300000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Prelims 3 Basketball Male Iran vs Kazakhstan</title>
-    <desc lang="en">Saksikan siaran Langsung : Prelims 3 Basketball Male Iran vs Kazakhstan</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023093017300000 +0800" stop="2023100100000000 +0800" channel="RTMAG1">
+<programme start="2023093017300000 +0800" stop="2023100200000000 +0800" channel="RTMAG1">
     <title lang="en">Siaran langsung : Sync 10 Metre Diving Woman Finals</title>
     <desc lang="en">Saksikan siaran langsung : Sync 10 Metre Diving Woman Finals</desc>
     <category lang="en">SPORTS</category>
@@ -777,16 +138,7 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092821350000 +0800" stop="2023092900300000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Football Women Philippines vs Myammar</title>
-    <desc lang="en">Saksikan Siaran Langsung Football Women Philippines vs Myammar </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092900300000 +0800" stop="2023092910150000 +0800" channel="RTMAG2">
+<programme start="2023100200000000 +0800" stop="2023100209550000 +0800" channel="RTMAG1">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -795,52 +147,70 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092910150000 +0800" stop="2023092912450000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Hockey Preliminary 's Women Kazakhstan vs Indonesia</title>
-    <desc lang="en">Saksikan Siaran Langsung Hockey Preliminary 's Women Kazakhstan vs Indonesia  </desc>
+<programme start="2023100209550000 +0800" stop="2023100212050000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Canoe Sprint Men and Women Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Canoe Sprint Men and Women Final </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092912450000 +0800" stop="2023092914450000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Hockey Preliminary 's Women Thailand vs Japan</title>
-    <desc lang="en"> Saksikan Siaran Langsung Hockey Preliminary 's Women Thailand vs Japan</desc>
+<programme start="2023100212050000 +0800" stop="2023100213550000 +0800" channel="RTMAG1">
+    <title lang="en">Siaran Ulangan :  Preliminary Hockey Men Korea vs Oman</title>
+    <desc lang="en">Saksikan Siaran Ulangan Preliminary Hockey Men Korea vs Oman </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092914450000 +0800" stop="2023092918050000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Golf Women's Individual Round and Men's Individual Round</title>
-    <desc lang="en">Saksikan Siaran Langsung Golf Women's Individual Round and Men's Individual Round </desc>
+<programme start="2023100213550000 +0800" stop="2023100215500000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Trampoline Gymnastics Women's Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Trampoline Gymnastics Women's Final </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092918050000 +0800" stop="2023092918300000 +0800" channel="RTMAG2">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+<programme start="2023100215500000 +0800" stop="2023100217150000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Diving Women's 1m Springboard Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Diving Women's 1m Springboard Final </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092918300000 +0800" stop="2023092922330000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Elimination Athletics Men and Women</title>
-    <desc lang="en">Saksikan Siaran Langsung Elimination Athletics Men and Women </desc>
+<programme start="2023100217150000 +0800" stop="2023100218500000 +0800" channel="RTMAG1">
+    <title lang="en">Siaran Ulangan : SepakTakraw Women's Quadrant Preliminary</title>
+    <desc lang="en">Saksikan Siaran Ulangan SepakTakraw Women's Quadrant Preliminary  </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092922330000 +0800" stop="2023093000000000 +0800" channel="RTMAG2">
+<programme start="2023100218500000 +0800" stop="2023100221320000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Diving Men's 1m Springboard Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Diving Men's 1m Springboard Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100221320000 +0800" stop="2023100300000000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Baseball Men's Second Stage Korea vs Chinese Taipie</title>
+    <desc lang="en">Saksikan Siaran Langsung Baseball Men's Second Stage Korea vs Chinese Taipie </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092922330000 +0800" stop="2023100200000000 +0800" channel="RTMAG2">
     <title lang="en">Siaran Ulangan : Waterpolo Women Thailand vs Kazakhstan</title>
     <desc lang="en">Saksikan Siaran Ulangan Waterpolo Women Thailand vs Kazakhstan  </desc>
     <category lang="en">SPORTS</category>
@@ -849,7 +219,34 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092900000000 +0800" stop="2023092910550000 +0800" channel="RTMAG3">
+<programme start="2023100200000000 +0800" stop="2023100208500000 +0800" channel="RTMAG2">
+    <title lang="en">Promo Sukan Asia 2022</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100208500000 +0800" stop="2023100211550000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Elimination Round Athletics Men</title>
+    <desc lang="en">Saksikan Siaran Langsung Elimination Round Athletics Men  </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100211550000 +0800" stop="2023100215150000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Medal Event Table Tennis Women's Doubles and Men's Singles Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Table Tennis Women's Doubles and Men's Singles Semifinal </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100215150000 +0800" stop="2023100215500000 +0800" channel="RTMAG2">
     <title lang="en">Promo Sukan Asia</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -858,52 +255,43 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092910550000 +0800" stop="2023092913300000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Medal Event Squash Women</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Squash Women </desc>
+<programme start="2023100215500000 +0800" stop="2023100218150000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Basketball Women's Quarterfinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Basketball Women's Quarterfinal  </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092913300000 +0800" stop="2023092915500000 +0800" channel="RTMAG3">
-    <title lang="en">(L)  Medal Event Squash Women Malaysia vs Korea Selatan</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Squash Women Malaysia vs Korea Selatan</desc>
+<programme start="2023100218150000 +0800" stop="2023100218500000 +0800" channel="RTMAG2">
+    <title lang="en">Promo Sukan Asia</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092915500000 +0800" stop="2023092916000000 +0800" channel="RTMAG3">
-    <title lang="en">(L)Hockey Preliminary's Women Hongkong vs Singapore</title>
-    <desc lang="en">Saksikan Siaran Langsung Hockey Preliminary's Women Hongkong vs Singapore </desc>
+<programme start="2023100218500000 +0800" stop="2023100222020000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Medal Event Athletics Men and Women Finals</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Athletics Men and Women Finals</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092916000000 +0800" stop="2023092917550000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Medal Event Squash Men</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Squash Men </desc>
+<programme start="2023100222020000 +0800" stop="2023100300000000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Hockey Preliminary Men's Pool B China vs Malaysia</title>
+    <desc lang="en">Saksikan Siaran Langsung Hockey Preliminary Men's Pool B China vs Malaysia </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092917550000 +0800" stop="2023092921470000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Cycling Track Women and Men</title>
-    <desc lang="en">Saksikan Siaran Langsung Cycling Track Women and Men </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092921470000 +0800" stop="2023093000000000 +0800" channel="RTMAG3">
+<programme start="2023092921470000 +0800" stop="2023100207480000 +0800" channel="RTMAG3">
     <title lang="en">Siaran Ulangan : Hockey Women Malaysia vs Indonesia</title>
     <desc lang="en">Saksikan Siaran Ulangan Hockey Women Malaysia vs Indonesia </desc>
     <category lang="en">SPORTS</category>
@@ -912,17 +300,26 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092822050000 +0800" stop="2023092901000000 +0800" channel="RTMAG4">
-    <title lang="en">Siaran Ulangan : Basketball Men United Arab Emirates vs Kazakhstan</title>
-    <desc lang="en">Saksikan Siaran Ulangan Basketball Men United Arab Emirates vs Kazakhstan</desc>
+<programme start="2023100207480000 +0800" stop="2023100211500000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Medal Event Triathlon Mixed Relay Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Triathlon Mixed Relay Final </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092901000000 +0800" stop="2023092909550000 +0800" channel="RTMAG4">
-    <title lang="en">Promo Sukan Asia</title>
+<programme start="2023100211500000 +0800" stop="2023100214150000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Basketball Men's Quarterfinal Chinese Taipei vs Kazakhstan</title>
+    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Quarterfinal Chinese Taipei vs Kazakhstan </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100214150000 +0800" stop="2023100214500000 +0800" channel="RTMAG3">
+    <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
@@ -930,25 +327,52 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092909550000 +0800" stop="2023092916550000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Medal Event Tennis Men and Women Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Tennis Men and Women Final</desc>
+<programme start="2023100214500000 +0800" stop="2023100216300000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Water Polo Men's Preliminary Round Kazakhstan vs Hong Kong</title>
+    <desc lang="en">Saksikan Siaran Langsung Water Polo Men's Preliminary Round Kazakhstan vs Hong Kong  </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092916550000 +0800" stop="2023092922050000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Badminton Men's Team Quarterfinal Chinese Taipie vs China</title>
-    <desc lang="en">Saksikan Siaran Langsung Badminton Men's Team Quarterfinal Chinese Taipie vs China </desc>
+<programme start="2023100216300000 +0800" stop="2023100218000000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Water Polo Men's Preliminary Round Singapore vs Japan</title>
+    <desc lang="en">Saksikan Siaran Langsung Water Polo Men's Preliminary Round Singapore vs Japan </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092922050000 +0800" stop="2023093000000000 +0800" channel="RTMAG4">
+<programme start="2023100218000000 +0800" stop="2023100218550000 +0800" channel="RTMAG3">
+    <title lang="en">Promo Sukan Asia 2022</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100218550000 +0800" stop="2023100221450000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Medal Event Weightlifting Women's 64Kg Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Weightlifting Women's 64Kg Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100221450000 +0800" stop="2023100300000000 +0800" channel="RTMAG3">
+    <title lang="en">Promo Sukan Asia 2022</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023092922050000 +0800" stop="2023100208550000 +0800" channel="RTMAG4">
     <title lang="en">Siaran Ulangan : Squash Men's Team Opener</title>
     <desc lang="en">Saksikan Siaran Ulangan Squash Men's Team Opener</desc>
     <category lang="en">SPORTS</category>
@@ -957,72 +381,117 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092823000000 +0800" stop="2023092901000000 +0800" channel="RTMAG5">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+<programme start="2023100208550000 +0800" stop="2023100211050000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Roller Skating Men and Women Relay Race Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Roller Skating Men and Women Relay Race Final </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092901000000 +0800" stop="2023092908550000 +0800" channel="RTMAG5">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+<programme start="2023100211050000 +0800" stop="2023100213550000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Hockey Preliminary's Men Thailand vs Indonesia</title>
+    <desc lang="en">Saksikan Siaran Langsung Hockey Preliminary's Men Thailand vs Indonesia </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092908550000 +0800" stop="2023092913500000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Badminton Women's Team Quarterfinal Japan vs Chinese Taipie</title>
-    <desc lang="en">Saksikan Siaran Langsung Badminton Women's Team Quarterfinal Japan vs Chinese Taipie</desc>
+<programme start="2023100213550000 +0800" stop="2023100215500000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Kurash Women 87Kg and Men 90Kg Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Kurash Women 87Kg and Men 90Kg Semifinal</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092913500000 +0800" stop="2023092917450000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Medal Event SepakTakraw Men's Team Regu Final Thailand vs Malaysia</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event SepakTakraw Men's Team Regu Final Thailand vs Malaysia </desc>
+<programme start="2023100215500000 +0800" stop="2023100300000000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Basketball Men's Qualifications to Quarterfinal Philippines vs Qatar</title>
+    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Qualifications to Quarterfinal Philippines vs Qatar </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092917450000 +0800" stop="2023092917550000 +0800" channel="RTMAG5">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092917550000 +0800" stop="2023092920150000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Fencing Women's Team and Men's Team Finals</title>
-    <desc lang="en">Saksikan Siaran Langsung Fencing Women's Team and Men's Team Finals</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092920150000 +0800" stop="2023092922300000 +0800" channel="RTMAG5">
-    <title lang="en">Siaran Ulangan : Squash Men's Team</title>
-    <desc lang="en">Saksikan Siaran Ulangan Squash Men's Team </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092922300000 +0800" stop="2023093000000000 +0800" channel="RTMAG5">
+<programme start="2023092922300000 +0800" stop="2023100208550000 +0800" channel="RTMAG5">
     <title lang="en">Siaran Ulangan : Basketball Women Indonesia vs China</title>
     <desc lang="en">Saksikan Siaran Ulangan Basketball Women Indonesia vs China </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100208550000 +0800" stop="2023100211500000 +0800" channel="RTMAG5">
+    <title lang="en">(L) SepakTakraw Men's Quadrant Preliminary Singapore vs India</title>
+    <desc lang="en">Saksikan Siaran Langsung SepakTakraw Men's Quadrant Preliminary Singapore vs India </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100211500000 +0800" stop="2023100214150000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Basketball Men's Qualifications to Quarterfinal Saudi Arabia vs Hong Kong</title>
+    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Qualifications to Quarterfinal Saudi Arabia vs Hong Kong  </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100214150000 +0800" stop="2023100214550000 +0800" channel="RTMAG5">
+    <title lang="en">Promo Sukan Asia 2022</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100214550000 +0800" stop="2023100217450000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Medal Event Weightlifting Women's 59Kg Group A Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Weightlifting Women's 59Kg Group A Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100217450000 +0800" stop="2023100217500000 +0800" channel="RTMAG5">
+    <title lang="en">Promo Sukan Asia 2022</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100217500000 +0800" stop="2023100221200000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Gold Medal Event Softball China vs Japan Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Gold Medal Event Softball China vs Japan Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100221200000 +0800" stop="2023100223300000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Basketball Men's Qualifications to Quarterfinal Korea vs Bahrain</title>
+    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Qualifications to Quarterfinal  Korea vs Bahrain </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100223300000 +0800" stop="2023100300000000 +0800" channel="RTMAG5">
+    <title lang="en">Promo Sukan Asia 2022</title>
+    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
