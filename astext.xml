@@ -57,214 +57,97 @@
 	<display-name lang="en">AS</display-name>
     <url>http://www.astro.com.my</url>
 	</channel>
-<programme start="20231003180000 +0800" stop="20231004000000 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
+<programme start="20231007060000 +0800" stop="20231007120000 +0800" channel="AS795">
+    <title lang="en">Astro SuperSport - Everton vs Bournemouth</title>
+    <desc lang="en">Catch the live broadcast of EPL 2023/24 - Everton vs Bournemouth at 2150.</desc>
     <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231004000000 +0800" stop="20231004003500 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
+<programme start="20231007120000 +0800" stop="20231007180000 +0800" channel="AS795">
+    <title lang="en">Astro SuperSport - Everton vs Bournemouth</title>
+    <desc lang="en">Catch the live broadcast of EPL 2023/24 - Everton vs Bournemouth at 2150.</desc>
     <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231004003500 +0800" stop="20231004025000 +0800" channel="AS795">
-    <title lang="en">(L) UCL: Union Berlin vs Braga</title>
-    <desc lang="en">LIVE: UEFA Champion's League 2023/24: Match Day 2: Union Berlin vs Braga, from Olympiastadion, Berlin.</desc>
+<programme start="20231007180000 +0800" stop="20231007215000 +0800" channel="AS795">
+    <title lang="en">Astro SuperSport - Everton vs Bournemouth</title>
+    <desc lang="en">Catch the live broadcast of EPL 2023/24 - Everton vs Bournemouth at 2150.</desc>
     <category lang="en">Football</category>
-    <icon src="https://mrfixitstips.co.uk/wp-content/uploads/2023/09/MRF2023_Union-Berlin-v-SC-Braga-1038x584.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231004025000 +0800" stop="20231004051000 +0800" channel="AS795">
-    <title lang="en">(L) UCL: Lens vs Arsenal</title>
-    <desc lang="en">LIVE: UEFA Champions League 2023/24: Match Day 2: Lens vs Arsenal, from Stade Bollaert-Delelis, Lens Agglo, France.</desc>
+<programme start="20231007215000 +0800" stop="20231008001500 +0800" channel="AS795">
+    <title lang="en">(L) English Premier League - Everton vs Bournemouth</title>
+    <desc lang="en">LIVE - English Premier League - Everton vs Bournemouth, from Goodison Park, Liverpool, England.</desc>
     <category lang="en">Football</category>
-    <icon src="https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/lens-preview.png?auto=webp&itok=N77rxd9S" />
+    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/FD87/production/_131330946_evertonvsbournemouth.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231004051000 +0800" stop="20231004060000 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
+<programme start="20231008001500 +0800" stop="20231008060000 +0800" channel="AS795">
+    <title lang="en">THANK YOU</title>
+    <desc lang="en">Thank you for watching the live broadcast</desc>
     <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231004060000 +0800" stop="20231004120000 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
+<programme start="20231007060000 +0800" stop="20231007120000 +0800" channel="AS796">
+    <title lang="en">Astro SuperSport - Fulham vs Sheffield United</title>
+    <desc lang="en">Catch the Live broadcast of English Premier League 2023/24 - Fulham vs Sheffield United at 2150.</desc>
     <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231004120000 +0800" stop="20231004180000 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
+<programme start="20231007120000 +0800" stop="20231007180000 +0800" channel="AS796">
+    <title lang="en">Astro SuperSport - Fulham vs Sheffield United</title>
+    <desc lang="en">Catch the Live broadcast of English Premier League 2023/24 - Fulham vs Sheffield United at 2150.</desc>
     <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231004180000 +0800" stop="20231005000000 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
+<programme start="20231007180000 +0800" stop="20231007215000 +0800" channel="AS796">
+    <title lang="en">Astro SuperSport - Fulham vs Sheffield United</title>
+    <desc lang="en">Catch the Live broadcast of English Premier League 2023/24 - Fulham vs Sheffield United at 2150.</desc>
     <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231005000000 +0800" stop="20231005025000 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
+<programme start="20231007215000 +0800" stop="20231008001500 +0800" channel="AS796">
+    <title lang="en">(L) English Premier League - Fulham vs Sheffield United.</title>
+    <desc lang="en">Live - English Premier League 2023/24: Fulham vs Sheffield United from Craven Cottage, London, England.</desc>
     <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
+    <icon src="https://media.zenfs.com/en/bbc_us_articles_995/00a5f41366f478a87eb4face624cefb8" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231005025000 +0800" stop="20231005051000 +0800" channel="AS795">
-    <title lang="en">(L) UCL: RB Leipzig vs Man City</title>
-    <desc lang="en">LIVE: UEFA Champions League 2023/24: Match Day 2: RB Leipzig vs Manchester City from RB Arena, Leipzig, Germany.</desc>
+<programme start="20231008001500 +0800" stop="20231008060000 +0800" channel="AS796">
+    <title lang="en">THANK YOU</title>
+    <desc lang="en">Thank you for watching the live broadcast of the English Premier League</desc>
     <category lang="en">Football</category>
-    <icon src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt35392f6bd3c494b9/63f6254956bc8c40ede735ab/Big_Match_Leipzig_vs_Man_CIty.jpg" />
+    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231005051000 +0800" stop="20231005060000 +0800" channel="AS795">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231003180000 +0800" stop="20231004000000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231004000000 +0800" stop="20231004025000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231004025000 +0800" stop="20231004051000 +0800" channel="AS796">
-    <title lang="en">(L) UCL: Napoli vs Real Madrid</title>
-    <desc lang="en">LIVE: UEFA Champions League 2023/24: Match Day 2: Napoli vs Real Madrid, from Stadio Diego Armando Maradona, Naples, Italy.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://mrfixitstips.co.uk/wp-content/uploads/2023/09/MRF2023_Napoli-v-Real-Madrid-1038x584.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231004051000 +0800" stop="20231004060000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231004060000 +0800" stop="20231004120000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231004120000 +0800" stop="20231004180000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231004180000 +0800" stop="20231005000000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231005000000 +0800" stop="20231005025000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231005025000 +0800" stop="20231005051000 +0800" channel="AS796">
-    <title lang="en">(L) UCL: FC Porto vs Barcelona</title>
-    <desc lang="en">LIVE: UEFA Champions League 2023/24: Match Day 2: FC Porto vs Barcelona, from Estadio do Dragao, Proto, Portugal.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt35392f6bd3c494b9/63f6254956bc8c40ede735ab/Big_Match_Leipzig_vs_Man_CIty.jpghttps://image.discovery.indazn.com/ca/v2/ca/image?id=192851013762_image-header_pCa_1694600780000&quality=70" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231005051000 +0800" stop="20231005060000 +0800" channel="AS796">
-    <title lang="en">BEIN SPORTS</title>
-    <desc lang="en">Catch the live broadcast of the UEFA Champion's League 2023/2024 Match Day 2</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.vox-cdn.com/thumbor/OTAiCVqKe6eMmdXhwx3XRvooPt4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16256659/1052932394.jpg.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092920450000 +0800" stop="2023100209550000 +0800" channel="AS790">
-    <title lang="en">(L) Esports League of Legends Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Esports League of Legends Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100209550000 +0800" stop="2023100218150000 +0800" channel="AS790">
-    <title lang="en">(L) Badminton Men's and Women's Singles and Doubles Round</title>
-    <desc lang="en"> Saksikan Siaran Langsung Badminton Men's and Women's Singles and Doubles Round</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100218150000 +0800" stop="2023100218460000 +0800" channel="AS790">
+<programme start="2023100521300000 +0800" stop="2023100608350000 +0800" channel="RTMAG1">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -273,25 +156,70 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100218460000 +0800" stop="2023100308520000 +0800" channel="AS790">
-    <title lang="en">(L) Medal Event Esports DOTA 2 Finals</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Esports DOTA 2 Finals </desc>
+<programme start="2023100608350000 +0800" stop="2023100611100000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Archery Women's Team Quarterfinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Archery Women's Team Quarterfinal </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100308520000 +0800" stop="2023100311050000 +0800" channel="AS790">
-    <title lang="en">(L) SepakTakraw Men and Women Quadrant Preliminary</title>
-    <desc lang="en">Saksikan Siaran Langsung SepakTakraw Men and Women Quadrant Preliminary </desc>
+<programme start="2023100611100000 +0800" stop="2023100612250000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Archery Women's Team Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Archery Women's Team Final </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100311050000 +0800" stop="2023100311500000 +0800" channel="AS790">
+<programme start="2023100612250000 +0800" stop="2023100613250000 +0800" channel="RTMAG1">
+    <title lang="en">Siaran Ulangan : Sepaktakraw Myanmar vs Thailand</title>
+    <desc lang="en">Saksikan Siaran Ulangan Sepaktakraw Myanmar vs Thailand </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100613250000 +0800" stop="2023100615000000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Archery Men's Team Quarterfinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Archery Men's Team Quarterfinal</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100615000000 +0800" stop="2023100617120000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Archery Men's Team Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Archery Men's Team Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100617120000 +0800" stop="2023100619500000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Medal Event Weightlifting Men's 109Kg Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Weightlifting Men's 109Kg Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100619500000 +0800" stop="2023100623150000 +0800" channel="RTMAG1">
+    <title lang="en">(L) Football Women's Gold Medal Match Japan vs North Korea</title>
+    <desc lang="en">Saksikan Siaran Langsung Football Women's Gold Medal Match Japan vs North Korea </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100623150000 +0800" stop="2023100700000000 +0800" channel="RTMAG1">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -300,16 +228,7 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100311500000 +0800" stop="2023100315000000 +0800" channel="AS790">
-    <title lang="en">(L) Baseball Men's Second Stage Group Hong Kong vs Chinese Taipie</title>
-    <desc lang="en">Saksikan Siaran Langsung Baseball Men's Second Stage Group Hong Kong vs Chinese Taipie  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100315000000 +0800" stop="2023100315500000 +0800" channel="AS790">
+<programme start="2023100523000000 +0800" stop="2023100608200000 +0800" channel="RTMAG2">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -318,43 +237,61 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100315500000 +0800" stop="2023100318000000 +0800" channel="AS790">
-    <title lang="en">(L)  Basketball Women North Korea vs China Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Women North Korea vs China Semifinal </desc>
+<programme start="2023100608200000 +0800" stop="2023100611160000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Medal Event Swim Marathon Women's 10KM Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Swim Marathon Women's 10KM Final</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100318000000 +0800" stop="2023100320150000 +0800" channel="AS790">
-    <title lang="en">(L) Handball Men Qatar vs Kuwait Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Handball Men Qatar vs Kuwait Semifinal  </desc>
+<programme start="2023100611160000 +0800" stop="2023100613550000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Soft Tennis Women's Singles Preliminary Round</title>
+    <desc lang="en">Saksikan Siaran Langsung Soft Tennis Women's Singles Preliminary Round</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100320150000 +0800" stop="2023100322050000 +0800" channel="AS790">
-    <title lang="en">iaran Langsung : Basketball Men's Quarterfinal Japan vs Chinese Taipie</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Quarterfinal Japan vs Chinese Taipie </desc>
+<programme start="2023100613550000 +0800" stop="2023100614400000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Medal Event Canoe Slalom Men's Canoe Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Canoe Slalom Men's Canoe Final</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100322050000 +0800" stop="2023100323450000 +0800" channel="AS790">
-    <title lang="en">Siaran Ulangan : Hockey Women Japan vs Kazakhstan</title>
-    <desc lang="en">Saksikan Siaran Ulangan Hockey Women Japan vs Kazakhstan </desc>
+<programme start="2023100614400000 +0800" stop="2023100616550000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Medal Event Women's Kayak Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Women's Kayak Final</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100323450000 +0800" stop="2023100400000000 +0800" channel="AS790">
+<programme start="2023100616550000 +0800" stop="2023100620350000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Medal Event Wrestling Women's Freestyle Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Wrestling Women's Freestyle Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100620350000 +0800" stop="2023100623300000 +0800" channel="RTMAG2">
+    <title lang="en">(L) Sport Climbing Men's Boulder and Lead Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Sport Climbing Men's Boulder and Lead Final </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100623300000 +0800" stop="2023100700000000 +0800" channel="RTMAG2">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -363,88 +300,7 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100200000000 +0800" stop="2023100209550000 +0800" channel="RTMAG1">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100209550000 +0800" stop="2023100212050000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Canoe Sprint Men and Women Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Canoe Sprint Men and Women Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100212050000 +0800" stop="2023100213550000 +0800" channel="RTMAG1">
-    <title lang="en">Siaran Ulangan :  Preliminary Hockey Men Korea vs Oman</title>
-    <desc lang="en">Saksikan Siaran Ulangan Preliminary Hockey Men Korea vs Oman </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100213550000 +0800" stop="2023100215500000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Trampoline Gymnastics Women's Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Trampoline Gymnastics Women's Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100215500000 +0800" stop="2023100217150000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Diving Women's 1m Springboard Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Diving Women's 1m Springboard Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100217150000 +0800" stop="2023100218500000 +0800" channel="RTMAG1">
-    <title lang="en">Siaran Ulangan : SepakTakraw Women's Quadrant Preliminary</title>
-    <desc lang="en">Saksikan Siaran Ulangan SepakTakraw Women's Quadrant Preliminary  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100218500000 +0800" stop="2023100221320000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Diving Men's 1m Springboard Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Diving Men's 1m Springboard Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100221320000 +0800" stop="2023100310000000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Baseball Men's Second Stage Korea vs Chinese Taipie</title>
-    <desc lang="en">Saksikan Siaran Langsung Baseball Men's Second Stage Korea vs Chinese Taipie </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100310000000 +0800" stop="2023100311000000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Diving Women's 10m Platform Preliminary</title>
-    <desc lang="en">Saksikan Siaran Langsung Diving Women's 10m Platform Preliminary </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100311000000 +0800" stop="2023100311150000 +0800" channel="RTMAG1">
+<programme start="2023100521450000 +0800" stop="2023100608550000 +0800" channel="RTMAG3">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -453,34 +309,70 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100311150000 +0800" stop="2023100312550000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Archery Men and Women Individual Quarterfinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Archery Men and Women Individual Quarterfinal </desc>
+<programme start="2023100608550000 +0800" stop="2023100611300000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Dragon Boat Men's and Women's 1000m Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Dragon Boat Men's and Women's 1000m Semifinal</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100312550000 +0800" stop="2023100314450000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Diving Men's 3m Springboard Preliminary</title>
-    <desc lang="en">Saksikan Siaran Langsung Diving Men's 3m Springboard Preliminary </desc>
+<programme start="2023100611300000 +0800" stop="2023100612010000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Medal Event Dragon Boat Men's and Women's 1000m Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Dragon Boat Men's and Women's 1000m Final</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100314450000 +0800" stop="2023100316300000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event SepakTakraw Men and Women Quadrant Semifinals</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event SepakTakraw Men and Women Quadrant Semifinals</desc>
+<programme start="2023100612010000 +0800" stop="2023100613550000 +0800" channel="RTMAG3">
+    <title lang="en">Siaran Ulangan : Sepaktakraw Vietnam vs Singapore</title>
+    <desc lang="en">Saksikan Siaran Ulangan Sepaktakraw Vietnam vs Singapore </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100316300000 +0800" stop="2023100317200000 +0800" channel="RTMAG1">
+<programme start="2023100613550000 +0800" stop="2023100614550000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Roller Skating Women Artistic Single Free Skating Short Program Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Roller Skating Women Artistic Single Free Skating Short Program Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100614550000 +0800" stop="2023100617350000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Medal Event Jujitsu Women's and Men's Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Jujitsu Women's and Men's Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100617350000 +0800" stop="2023100619500000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Football Women's Bronze Medal Match China vs Uzbekistan</title>
+    <desc lang="en">Saksikan Siaran Langsung Football Women's Bronze Medal Match China vs Uzbekistan </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100619500000 +0800" stop="2023100621000000 +0800" channel="RTMAG3">
+    <title lang="en">(L) Basketball Men's Gold Medal Game Jordan vs Philippines Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Gold Medal Game Jordan vs Philippines Final</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100621000000 +0800" stop="2023100622310000 +0800" channel="RTMAG3">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -489,34 +381,16 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100317200000 +0800" stop="2023100318300000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Diving Women's 10m Platform Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Diving Women's 10m Platform Final</desc>
+<programme start="2023100622310000 +0800" stop="2023100700000000 +0800" channel="RTMAG3">
+    <title lang="en">Siaran Ulangan : Artistic Swimming Mixed Team</title>
+    <desc lang="en">Saksikan Siaran Ulangan Artistic Swimming Mixed Team </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100318300000 +0800" stop="2023100319250000 +0800" channel="RTMAG1">
-    <title lang="en">Siaran Ulangan : Squash Malaysia vs Qatar</title>
-    <desc lang="en">Saksikan Siaran Ulangan Squash Malaysia vs Qatar </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100319250000 +0800" stop="2023100321300000 +0800" channel="RTMAG1">
-    <title lang="en">(L) Medal Event Diving Men's 3m Springboard Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Diving Men's 3m Springboard Final</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100321300000 +0800" stop="2023100400000000 +0800" channel="RTMAG1">
+<programme start="2023100523450000 +0800" stop="2023100610000000 +0800" channel="RTMAG4">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -525,7 +399,70 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100200000000 +0800" stop="2023100208500000 +0800" channel="RTMAG2">
+<programme start="2023100610000000 +0800" stop="2023100612000000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Badminton Women's Doubles Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Badminton Women's Doubles Semifinal </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100610000000 +0800" stop="2023100610000000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Badminton Women's Doubles Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Badminton Women's Doubles Semifinal </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100612000000 +0800" stop="2023100615010000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Badminton Women's and Men's Doubles Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Badminton Women's and Men's Doubles Semifinal</desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100615010000 +0800" stop="2023100616550000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Hockey Men's Classification Pakistan vs Malaysia</title>
+    <desc lang="en">Saksikan Siaran Langsung Hockey Men's Classification Pakistan vs Malaysia </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100616550000 +0800" stop="2023100617300000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Badminton Mixed Doubles Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Badminton Mixed Doubles Semifinal  </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100617300000 +0800" stop="2023100618300000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Badminton Women's Singles Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Badminton Women's Singles Semifinal </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100618300000 +0800" stop="2023100622000000 +0800" channel="RTMAG4">
+    <title lang="en">(L) Medal Event Badminton Men's Doubles Malaysia vs India Semifinal</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Badminton Men's Doubles Malaysia vs India Semifinal </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100622000000 +0800" stop="2023100700000000 +0800" channel="RTMAG4">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -534,106 +471,7 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100208500000 +0800" stop="2023100211550000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Elimination Round Athletics Men</title>
-    <desc lang="en">Saksikan Siaran Langsung Elimination Round Athletics Men  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100211550000 +0800" stop="2023100215150000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Medal Event Table Tennis Women's Doubles and Men's Singles Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Table Tennis Women's Doubles and Men's Singles Semifinal </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100215150000 +0800" stop="2023100215500000 +0800" channel="RTMAG2">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100215500000 +0800" stop="2023100218150000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Basketball Women's Quarterfinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Women's Quarterfinal  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100218150000 +0800" stop="2023100218500000 +0800" channel="RTMAG2">
-    <title lang="en">Promo Sukan Asia</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100218500000 +0800" stop="2023100222020000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Medal Event Athletics Men and Women Finals</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Athletics Men and Women Finals</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100222020000 +0800" stop="2023100309550000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Hockey Preliminary Men's Pool B China vs Malaysia</title>
-    <desc lang="en">Saksikan Siaran Langsung Hockey Preliminary Men's Pool B China vs Malaysia </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100309550000 +0800" stop="2023100318030000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Badminton Men's and Women's Singles and Doubles Round</title>
-    <desc lang="en"> Saksikan Siaran Langsung Badminton Men's and Women's Singles and Doubles Round</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100318030000 +0800" stop="2023100318550000 +0800" channel="RTMAG2">
-    <title lang="en">Siaran  Ulangan : Kabaddi Chinese Taipie vs Thailand</title>
-    <desc lang="en">Saksikan Siaran Ulangan Kabaddi Chinese Taipie vs Thailand</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100318550000 +0800" stop="2023100321350000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Medal Event Weightlifting Men's 73Kg Group A Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Weightlifting Men's 73Kg Group A Final</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100321350000 +0800" stop="2023100323450000 +0800" channel="RTMAG2">
-    <title lang="en">(L) Basketball Women Japan vs Korea Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Women Japan vs Korea Semifinal </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100323450000 +0800" stop="2023100400000000 +0800" channel="RTMAG2">
+<programme start="2023100522000000 +0800" stop="2023100609000000 +0800" channel="RTMAG5">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -642,34 +480,25 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023092921470000 +0800" stop="2023100207480000 +0800" channel="RTMAG3">
-    <title lang="en">Siaran Ulangan : Hockey Women Malaysia vs Indonesia</title>
-    <desc lang="en">Saksikan Siaran Ulangan Hockey Women Malaysia vs Indonesia </desc>
+<programme start="2023100609000000 +0800" stop="2023100611010000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Medal Event Equestrian Jumping Individual Final Competition</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Equestrian Jumping Individual Final Competition </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100207480000 +0800" stop="2023100211500000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Medal Event Triathlon Mixed Relay Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Triathlon Mixed Relay Final </desc>
+<programme start="2023100611010000 +0800" stop="2023100614000000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Medal Event Canoe Slalom Men's and Women's Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Canoe Slalom Men's and Women's Final</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100211500000 +0800" stop="2023100214150000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Basketball Men's Quarterfinal Chinese Taipei vs Kazakhstan</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Quarterfinal Chinese Taipei vs Kazakhstan </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100214150000 +0800" stop="2023100214500000 +0800" channel="RTMAG3">
+<programme start="2023100614000000 +0800" stop="2023100614550000 +0800" channel="RTMAG5">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -678,25 +507,16 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100214500000 +0800" stop="2023100216300000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Water Polo Men's Preliminary Round Kazakhstan vs Hong Kong</title>
-    <desc lang="en">Saksikan Siaran Langsung Water Polo Men's Preliminary Round Kazakhstan vs Hong Kong  </desc>
+<programme start="2023100614550000 +0800" stop="2023100618000000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Medal Event Equastrian Jumping Individual Final</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Equastrian Jumping Individual Final</desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100216300000 +0800" stop="2023100218000000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Water Polo Men's Preliminary Round Singapore vs Japan</title>
-    <desc lang="en">Saksikan Siaran Langsung Water Polo Men's Preliminary Round Singapore vs Japan </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100218000000 +0800" stop="2023100218550000 +0800" channel="RTMAG3">
+<programme start="2023100618000000 +0800" stop="2023100618200000 +0800" channel="RTMAG5">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
     <category lang="en">SPORTS</category>
@@ -705,333 +525,27 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100218550000 +0800" stop="2023100221450000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Medal Event Weightlifting Women's 64Kg Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Weightlifting Women's 64Kg Final </desc>
+<programme start="2023100618200000 +0800" stop="2023100620310000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Medal Event Hockey Men's Final India vs Japan</title>
+    <desc lang="en">Saksikan Siaran Langsung Medal Event Hockey Men's Final India vs Japan </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="2023100221450000 +0800" stop="2023100308500000 +0800" channel="RTMAG3">
+<programme start="2023100620310000 +0800" stop="2023100622300000 +0800" channel="RTMAG5">
+    <title lang="en">(L) Volleyball Women's Semifinal China vs Thailand</title>
+    <desc lang="en">Saksikan Siaran Langsung Volleyball Women's Semifinal China vs Thailand </desc>
+    <category lang="en">SPORTS</category>
+    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="2023100622300000 +0800" stop="2023100700000000 +0800" channel="RTMAG5">
     <title lang="en">Promo Sukan Asia 2022</title>
     <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100308500000 +0800" stop="2023100310450000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Medal Event Cycling Road Women and Men Individual Time Trials</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Cycling Road Women and Men Individual Time Trials</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100310450000 +0800" stop="2023100311500000 +0800" channel="RTMAG3">
-    <title lang="en">Siaran Ulangan : Kabaddi Men's Team India vs Bangladesh</title>
-    <desc lang="en">Saksikan Siaran Ulangan Kabaddi Men's Team India vs Bangladesh </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100311500000 +0800" stop="2023100313500000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Basketball Men Iran vs Philippines Quarterfinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men Iran vs Philippines Quarterfinal </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100313500000 +0800" stop="2023100316150000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Medal Event Cycling Road Men's Individual Time Trial Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Cycling Road Men's Individual Time Trial Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100316150000 +0800" stop="2023100317500000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Waterpolo Men's Preliminary Thailand vs Iran</title>
-    <desc lang="en">Saksikan Siaran Langsung Waterpolo Men's Preliminary Thailand vs Iran</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100317500000 +0800" stop="2023100321000000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Football Women Uzbekistan vs North Korea Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Football Women Uzbekistan vs North Korea Semifinal</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100321000000 +0800" stop="2023100322050000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Sport Climbing Men and Women Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Sport Climbing Men and Women Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100322050000 +0800" stop="2023100400000000 +0800" channel="RTMAG3">
-    <title lang="en">(L) Waterpolo Men's Preliminary Singapore vs Hong Kong</title>
-    <desc lang="en">Saksikan Siaran Langsung Waterpolo Men's Preliminary Singapore vs Hong Kong </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092922050000 +0800" stop="2023100208550000 +0800" channel="RTMAG4">
-    <title lang="en">Siaran Ulangan : Squash Men's Team Opener</title>
-    <desc lang="en">Saksikan Siaran Ulangan Squash Men's Team Opener</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100208550000 +0800" stop="2023100211050000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Roller Skating Men and Women Relay Race Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Roller Skating Men and Women Relay Race Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100211050000 +0800" stop="2023100213550000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Hockey Preliminary's Men Thailand vs Indonesia</title>
-    <desc lang="en">Saksikan Siaran Langsung Hockey Preliminary's Men Thailand vs Indonesia </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100213550000 +0800" stop="2023100215500000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Medal Event Kurash Women 87Kg and Men 90Kg Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Kurash Women 87Kg and Men 90Kg Semifinal</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100215500000 +0800" stop="2023100300000000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Basketball Men's Qualifications to Quarterfinal Philippines vs Qatar</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Qualifications to Quarterfinal Philippines vs Qatar </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100300000000 +0800" stop="2023100308500000 +0800" channel="RTMAG4">
-    <title lang="en">Promo Sukan Asia 2022</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100308500000 +0800" stop="2023100311500000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Elimination Athletics Men's 4X400m Relay Round</title>
-    <desc lang="en">Saksikan Siaran Langsung Elimination Athletics Men's 4X400m Relay Round</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100311500000 +0800" stop="2023100313550000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Basketball Men China vs Korea Quarterfinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men China vs Korea Quarterfinal  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100313550000 +0800" stop="2023100316250000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Medal Event Trampoline Gymnastics Men Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Trampoline Gymnastics Men Final</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100316250000 +0800" stop="2023100318500000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Basketball Men's Quarterfinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Quarterfinal  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100318500000 +0800" stop="2023100322000000 +0800" channel="RTMAG4">
-    <title lang="en">(L) Medal Event Athletics Women and Men Finals</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Athletics Women and Men Finals</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100322000000 +0800" stop="2023100400000000 +0800" channel="RTMAG4">
-    <title lang="en">Siaran Ulangan : Handball Women Japan vs Kazakhstan Semifinal</title>
-    <desc lang="en">Saksikan Siaran Ulangan Handball Women Japan vs Kazakhstan Semifinal</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023092922300000 +0800" stop="2023100208550000 +0800" channel="RTMAG5">
-    <title lang="en">Siaran Ulangan : Basketball Women Indonesia vs China</title>
-    <desc lang="en">Saksikan Siaran Ulangan Basketball Women Indonesia vs China </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100208550000 +0800" stop="2023100211500000 +0800" channel="RTMAG5">
-    <title lang="en">(L) SepakTakraw Men's Quadrant Preliminary Singapore vs India</title>
-    <desc lang="en">Saksikan Siaran Langsung SepakTakraw Men's Quadrant Preliminary Singapore vs India </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100211500000 +0800" stop="2023100214150000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Basketball Men's Qualifications to Quarterfinal Saudi Arabia vs Hong Kong</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Qualifications to Quarterfinal Saudi Arabia vs Hong Kong  </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100214150000 +0800" stop="2023100214550000 +0800" channel="RTMAG5">
-    <title lang="en">Promo Sukan Asia 2022</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100214550000 +0800" stop="2023100217450000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Medal Event Weightlifting Women's 59Kg Group A Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Weightlifting Women's 59Kg Group A Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100217450000 +0800" stop="2023100217500000 +0800" channel="RTMAG5">
-    <title lang="en">Promo Sukan Asia 2022</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100217500000 +0800" stop="2023100221200000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Gold Medal Event Softball China vs Japan Final</title>
-    <desc lang="en">Saksikan Siaran Langsung Gold Medal Event Softball China vs Japan Final </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100221200000 +0800" stop="2023100223300000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Basketball Men's Qualifications to Quarterfinal Korea vs Bahrain</title>
-    <desc lang="en">Saksikan Siaran Langsung Basketball Men's Qualifications to Quarterfinal  Korea vs Bahrain </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100223300000 +0800" stop="2023100300000000 +0800" channel="RTMAG5">
-    <title lang="en">Promo Sukan Asia 2022</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100300000000 +0800" stop="2023100309550000 +0800" channel="RTMAG5">
-    <title lang="en">Promo Sukan Asia 2022</title>
-    <desc lang="en">Saksikan paparan promo Sukan Asia 2022</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100309550000 +0800" stop="2023100313550000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Medal Event Canoe Sprint Men and Women Finals</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Canoe Sprint Men and Women Finals</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100313550000 +0800" stop="2023100317050000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Medal Event Boxing Women and Men Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Medal Event Boxing Women and Men Semifinal </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100317050000 +0800" stop="2023100318550000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Waterpolo Men's Preliminary Kazakhstan vs Japan</title>
-    <desc lang="en">Saksikan Siaran Langsung Waterpolo Men's Preliminary Kazakhstan vs Japan</desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100318550000 +0800" stop="2023100322170000 +0800" channel="RTMAG5">
-    <title lang="en">(L) Boxing Women and Men Semifinal</title>
-    <desc lang="en">Saksikan Siaran Langsung Boxing Women and Men Semifinal </desc>
-    <category lang="en">SPORTS</category>
-    <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="2023100322170000 +0800" stop="2023100400000000 +0800" channel="RTMAG5">
-    <title lang="en">Siaran Ulangan : Hockey Women Thailand vs China</title>
-    <desc lang="en">Saksikan Siaran Ulangan Hockey Women Thailand vs China </desc>
     <category lang="en">SPORTS</category>
     <icon src="https://berita.rtm.gov.my/~berita/images/Archive2022/1909_RTM.jpg" />
     <rating system="MY">
