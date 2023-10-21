@@ -66,15 +66,6 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021095000 +0800" stop="20231022001500 +0800" channel="AS795">
-    <title lang="en">(L) PL: Nottm Forest vs Luton Town</title>
-    <desc lang="en">LIVE: Premier League 2023/24: Match Week 9: Nottingham Forest vs Luton Town from City Ground, West Bridgford, Nottinghamshire, England.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/BC78/production/_131484284_nottinghamforestvsluton.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20231021120000 +0800" stop="20231021180000 +0800" channel="AS795">
     <title lang="en">Astro SuperSport - Nottingham Forest vs Luton Town</title>
     <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Nottingham Forest vs Luton Town at 2200hrs</desc>
@@ -93,20 +84,20 @@
       <value>U</value>
     </rating>
   </programme>
+<programme start="20231021215000 +0800" stop="20231022001500 +0800" channel="AS795">
+    <title lang="en">(L) PL: Nottm Forest vs Luton Town</title>
+    <desc lang="en">LIVE: Premier League 2023/24: Match Week 9: Nottingham Forest vs Luton Town from City Ground, West Bridgford, Nottinghamshire, England.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/BC78/production/_131484284_nottinghamforestvsluton.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
 <programme start="20231021060000 +0800" stop="20231021120000 +0800" channel="AS796">
     <title lang="en">Astro SuperSport - Bournemouth vs Wolves</title>
     <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Bournemouth vs Wolves at 2200hrs</desc>
     <category lang="en">Football</category>
     <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231021095000 +0800" stop="20231022001500 +0800" channel="AS796">
-    <title lang="en">(L) PL: Bournemouth vs Wolves</title>
-    <desc lang="en">LIVE: Premier League 2023/24: Match Week 9: AFC Bournemouth vs Wolverhampton Wanderers from Vitality Stadium, Kings Park, Boscombe, United Kingdom.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/10CE4/production/_131463886_bournemouthvswolves.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -125,6 +116,15 @@
     <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Bournemouth vs Wolves at 2200hrs</desc>
     <category lang="en">Football</category>
     <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231021215000 +0800" stop="20231022001500 +0800" channel="AS796">
+    <title lang="en">(L) PL: Bournemouth vs Wolves</title>
+    <desc lang="en">LIVE: Premier League 2023/24: Match Week 9: AFC Bournemouth vs Wolverhampton Wanderers from Vitality Stadium, Kings Park, Boscombe, United Kingdom.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/10CE4/production/_131463886_bournemouthvswolves.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
