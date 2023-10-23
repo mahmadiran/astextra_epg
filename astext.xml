@@ -37,6 +37,10 @@
 	<display-name lang="en">AS825</display-name>
     <url>http://www.astro.com.my</url>
 </channel>
+<channel id="AS826">
+	<display-name lang="en">AS826</display-name>
+    <url>http://www.astro.com.my</url>
+</channel>
 	<channel id="RTMAG1">
 	<display-name lang="en">AS</display-name>
     <url>http://www.astro.com.my</url>
@@ -57,164 +61,236 @@
 	<display-name lang="en">AS</display-name>
     <url>http://www.astro.com.my</url>
 	</channel>
-<programme start="20231021060000 +0800" stop="20231021120000 +0800" channel="AS795">
-    <title lang="en">Astro SuperSport - Nottingham Forest vs Luton Town</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Nottingham Forest vs Luton Town at 2200hrs</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+<programme start="20231023180000 +0800" stop="20231023195000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021120000 +0800" stop="20231021180000 +0800" channel="AS795">
-    <title lang="en">Astro SuperSport - Nottingham Forest vs Luton Town</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Nottingham Forest vs Luton Town at 2200hrs</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+<programme start="20231023195000 +0800" stop="20231024060000 +0800" channel="AS826">
+    <title lang="en">(L) Snooker: Northern Ireland Open Day 2</title>
+    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 2, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021180000 +0800" stop="20231021215000 +0800" channel="AS795">
-    <title lang="en">Astro SuperSport - Nottingham Forest vs Luton Town</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Nottingham Forest vs Luton Town at 2200hrs</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+<programme start="20231024060000 +0800" stop="20231024120000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021215000 +0800" stop="20231022001500 +0800" channel="AS795">
-    <title lang="en">(L) PL: Nottm Forest vs Luton Town</title>
-    <desc lang="en">LIVE: Premier League 2023/24: Match Week 9: Nottingham Forest vs Luton Town from City Ground, West Bridgford, Nottinghamshire, England.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/BC78/production/_131484284_nottinghamforestvsluton.png" />
+<programme start="20231024120000 +0800" stop="20231024180000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021060000 +0800" stop="20231021120000 +0800" channel="AS796">
-    <title lang="en">Astro SuperSport - Bournemouth vs Wolves</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Bournemouth vs Wolves at 2200hrs</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+<programme start="20231024180000 +0800" stop="20231024195000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021120000 +0800" stop="20231021180000 +0800" channel="AS796">
-    <title lang="en">Astro SuperSport - Bournemouth vs Wolves</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Bournemouth vs Wolves at 2200hrs</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+<programme start="20231024195000 +0800" stop="20231025060000 +0800" channel="AS826">
+    <title lang="en">(L) Snooker: Northern Ireland Open Day 3</title>
+    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 3, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021180000 +0800" stop="20231021215000 +0800" channel="AS796">
-    <title lang="en">Astro SuperSport - Bournemouth vs Wolves</title>
-    <desc lang="en">Catch the live broadcast of Premier League 2023/24: Match Week 9: Bournemouth vs Wolves at 2200hrs</desc>
-    <category lang="en">Football</category>
-    <icon src="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/astro-premier-league-2023-2024-en_1920x1080.jpg" />
+<programme start="20231025060000 +0800" stop="20231025120000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021215000 +0800" stop="20231022001500 +0800" channel="AS796">
-    <title lang="en">(L) PL: Bournemouth vs Wolves</title>
-    <desc lang="en">LIVE: Premier League 2023/24: Match Week 9: AFC Bournemouth vs Wolverhampton Wanderers from Vitality Stadium, Kings Park, Boscombe, United Kingdom.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/10CE4/production/_131463886_bournemouthvswolves.png" />
+<programme start="20231025120000 +0800" stop="20231025180000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021000000 +0800" stop="20231021060000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Catch the Broadcast of Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231025180000 +0800" stop="20231025195000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021060000 +0800" stop="20231021110000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Catch the Broadcast of Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231025195000 +0800" stop="20231026060000 +0800" channel="AS826">
+    <title lang="en">(L) Snooker: Northern Ireland Open Day 4</title>
+    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 4, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021110000 +0800" stop="20231021150000 +0800" channel="AS797">
-    <title lang="en">(L) BMW Ladies Championship Day 3</title>
-    <desc lang="en">LIVE: Ladies PGA Tour 2023: BMW Ladies Championship 2023 Tournament held at Seowon Valley Country Club, The Seowon Valley Country Club, Seowon Hills, South Korea.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://img1.yna.co.kr/etc/inner/EN/2019/08/29/AEN20190829007300315_01_i_P2.jpg" />
+<programme start="20231026060000 +0800" stop="20231026120000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021150000 +0800" stop="20231021180000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Catch the Broadcast of Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231026120000 +0800" stop="20231026180000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231021180000 +0800" stop="20231022000000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Catch the Broadcast of Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231026180000 +0800" stop="20231026195000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231022000000 +0800" stop="20231022060000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Catch the Broadcast of Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231026195000 +0800" stop="20231027060000 +0800" channel="AS826">
+    <title lang="en">(L) Snooker: Northern Ireland Open Day 5</title>
+    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 5, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231022060000 +0800" stop="20231022110000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Catch the Broadcast of Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231027060000 +0800" stop="20231027120000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231022110000 +0800" stop="20231022150000 +0800" channel="AS797">
-    <title lang="en">(L) BMW Ladies Championship Day 4</title>
-    <desc lang="en">LIVE: Ladies PGA Tour 2023: BMW Ladies Championship 2023 Tournament held at Seowon Valley Country Club, The Seowon Valley Country Club, Seowon Hills, South Korea.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://img1.yna.co.kr/etc/inner/EN/2019/08/29/AEN20190829007300315_01_i_P2.jpg" />
+<programme start="20231027120000 +0800" stop="20231027180000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231022150000 +0800" stop="20231022180000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Thank you for watching Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231027180000 +0800" stop="20231027195000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231022180000 +0800" stop="20231023000000 +0800" channel="AS797">
-    <title lang="en">Golf Channel</title>
-    <desc lang="en">Thank you for watching  Ladies PGA Tour: BMW Ladies Championship 2023 from 19th - 22nd October 2023.</desc>
-    <category lang="en">Golf</category>
-    <icon src="https://barrettsportsmedia.com/wp-content/uploads/2021/08/Golf-Channel.jpg" />
+<programme start="20231027195000 +0800" stop="20231028060000 +0800" channel="AS826">
+    <title lang="en">(L) Snooker: Northern Ireland Open Day 6</title>
+    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 6, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231028060000 +0800" stop="20231028120000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231028120000 +0800" stop="20231028180000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231028180000 +0800" stop="20231028195000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231028195000 +0800" stop="20231029060000 +0800" channel="AS826">
+    <title lang="en">(L) Snooker: Northern Ireland Open Day 7</title>
+    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 7, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231029060000 +0800" stop="20231029120000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231029120000 +0800" stop="20231029180000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231029180000 +0800" stop="20231029195000 +0800" channel="AS826">
+    <title lang="en">World Snooker Tour 2023/24</title>
+    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231029195000 +0800" stop="20231030060000 +0800" channel="AS826">
+    <title lang="en">(L) Snooker: Northern Ireland Open Day 8</title>
+    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 8, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
+    <category lang="en">Snooker</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
