@@ -45,6 +45,10 @@
 	<display-name lang="en">AS827</display-name>
     <url>http://www.astro.com.my</url>
 </channel>
+<channel id="AS828">
+	<display-name lang="en">AS828</display-name>
+    <url>http://www.astro.com.my</url>
+</channel>
 	<channel id="RTMAG1">
 	<display-name lang="en">AS</display-name>
     <url>http://www.astro.com.my</url>
@@ -65,42 +69,6 @@
 	<display-name lang="en">AS</display-name>
     <url>http://www.astro.com.my</url>
 	</channel>
-<programme start="20231024060000 +0800" stop="20231024120000 +0800" channel="AS826">
-    <title lang="en">World Snooker Tour 2023/24</title>
-    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
-    <category lang="en">Snooker</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231024120000 +0800" stop="20231024180000 +0800" channel="AS826">
-    <title lang="en">World Snooker Tour 2023/24</title>
-    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
-    <category lang="en">Snooker</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231024180000 +0800" stop="20231024195000 +0800" channel="AS826">
-    <title lang="en">World Snooker Tour 2023/24</title>
-    <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Ireland Open, from 22nd to 29th October 2023</desc>
-    <category lang="en">Snooker</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231024195000 +0800" stop="20231025060000 +0800" channel="AS826">
-    <title lang="en">(L) Snooker: Northern Ireland Open Day 3</title>
-    <desc lang="en">Live: World Snooker Tour 2023/24: Northern Ireland Open Day 3, from ICC Waterfront Hall, Belfast, Northern Ireland.</desc>
-    <category lang="en">Snooker</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KJPES.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20231025060000 +0800" stop="20231025120000 +0800" channel="AS826">
     <title lang="en">World Snooker Tour 2023/24</title>
     <desc lang="en">Catch the live broadcast of World Snooker Tour 2023/24: Northern Irelad Open, from 22nd to 29th October 2023</desc>
@@ -281,33 +249,6 @@
       <value>U</value>
     </rating>
   </programme>
-<programme start="20231024060000 +0800" stop="20231024120000 +0800" channel="AS827">
-    <title lang="en">BEIN SPORTS 4</title>
-    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231024120000 +0800" stop="20231024180000 +0800" channel="AS827">
-    <title lang="en">BEIN SPORTS 4</title>
-    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231024180000 +0800" stop="20231025000000 +0800" channel="AS827">
-    <title lang="en">BEIN SPORTS 4</title>
-    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20231025000000 +0800" stop="20231025003500 +0800" channel="AS827">
     <title lang="en">BEIN SPORTS 4</title>
     <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
@@ -391,6 +332,69 @@
   </programme>
 <programme start="20231026050000 +0800" stop="20231026060000 +0800" channel="AS827">
     <title lang="en">BEIN SPORTS 4</title>
+    <desc lang="en">UCL Channel</desc>
+    <category lang="en">Football</category>
+    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231025050000 +0800" stop="20231025060000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231025060000 +0800" stop="20231025120000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231025120000 +0800" stop="20231025180000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231025180000 +0800" stop="20231026000000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231026000000 +0800" stop="20231026025000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 3 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231026025000 +0800" stop="20231026050000 +0800" channel="AS828">
+    <title lang="en">(L) UCL: Newcastle Utd vs Dortmund</title>
+    <desc lang="en">LIVE: UEFA Champions League 2023/24: Match Day 3: Newcastle Utd vs Borussia Dortmund from St James Park, Newcastle, England.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://image.discovery.indazn.com/ca/v2/ca/image?id=1iybjiwnw1wb113bp8kuxxhmmy_image-header_pDach_1694096728000&quality=70" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231026050000 +0800" stop="20231026060000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
     <desc lang="en">UCL Channel</desc>
     <category lang="en">Football</category>
     <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
