@@ -73,33 +73,6 @@
 	<display-name lang="en">AS</display-name>
     <url>http://www.astro.com.my</url>
 	</channel>
-<programme start="20231107060000 +0800" stop="20231107120000 +0800" channel="AS827">
-    <title lang="en">BEIN SPORTS 4</title>
-    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231107120000 +0800" stop="20231107180000 +0800" channel="AS827">
-    <title lang="en">BEIN SPORTS 4</title>
-    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-<programme start="20231107180000 +0800" stop="20231108000000 +0800" channel="AS827">
-    <title lang="en">BEIN SPORTS 4</title>
-    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
-    <category lang="en">Football</category>
-    <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
 <programme start="20231108000000 +0800" stop="20231108013500 +0800" channel="AS827">
     <title lang="en">BEIN SPORTS 4</title>
     <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
@@ -186,6 +159,69 @@
     <desc lang="en">Thank you for watching this live broadcast</desc>
     <category lang="en">Football</category>
     <icon src="https://img.uefa.com/imgml/uefacom/ucl/social/og-default.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231108000000 +0800" stop="20231108060000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000347X766029.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231108060000 +0800" stop="20231108120000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000347X766029.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231108120000 +0800" stop="20231108180000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000347X766029.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231108180000 +0800" stop="20231109000000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000347X766029.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231109000000 +0800" stop="20231109025000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Catch the live broadcast of UEFA Champions League 2023/24: Match Day 4 on this channel.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000347X766029.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231109025000 +0800" stop="20231109050000 +0800" channel="AS828">
+    <title lang="en">(L) UCL: Real Madrid vs Braga</title>
+    <desc lang="en">LIVE: UEFA Champions League 2023/24: Match Day 4: Real Madrid vs Braga, from Estadio Santiago Bernabeu, Madrid, Spain</desc>
+    <category lang="en">Football</category>
+    <icon src="https://image.discovery.indazn.com/ca/v2/ca/image?id=1pd4lgesh5brl19s9v1e621wrr_image-header_pDach_1694613339000&quality=70" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+<programme start="20231109050000 +0800" stop="20231109120000 +0800" channel="AS828">
+    <title lang="en">BEIN SPORTS 5</title>
+    <desc lang="en">Thank you for watching this live broadcast.</desc>
+    <category lang="en">Football</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000347X766067.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
